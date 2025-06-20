@@ -582,7 +582,7 @@ product-modal {
 
 @media screen and (max-width: 990px) {
   .product .product__title {
-    font-size: calc(var(--font-heading-scale) * 2.4rem);
+    font-size: var(--font-size-static-sm) !important;
     line-height: calc(1 + 0.3 / var(--font-heading-scale));
   }
 }
@@ -701,7 +701,7 @@ product-modal {
 /* Product title */
 .product__title {
   color: rgb(var(--color-primary-text));
-  font-size: var(--font-size-static-lg) !important;
+  font-size: var(--font-size-static-sm) !important;
   line-height: var(--line-height-static-sm);
   font-weight: var(--font-weight-heading-semibold);
   text-transform: uppercase;

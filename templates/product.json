@@ -1,1 +1,238 @@
-{"sections":{"main":{"type":"main-product","blocks":{"goback_zMzywG":{"type":"goback","settings":{"goback_style":"text","goback_label":"","display_goback_mobile":"on-top","show_on":"desktop"}},"breadcrumbs_JRrp9d":{"type":"breadcrumbs","settings":{}},"text_w7iGN6":{"type":"text","settings":{"spacing_bottom":"0","heading":"","icon":"theme-check","link_to_resource":"vendor","text_before_link":false,"heading_secondary":"","metafield_for_product_variant":"","show_block_content":true}},"badge_dC66pN":{"type":"badge","settings":{"spacing_bottom":"1","show_badges":true,"show_badges_discount":false,"show_badges_sold":true}},"1e0c79e9-7de0-4eee-b9c5-f27132635fb8":{"type":"title","settings":{"spacing_bottom":"1"}},"sku_NRyjUw":{"type":"sku","settings":{"spacing_bottom":"2"}},"content_grid_W3Mqy6":{"type":"content_grid","settings":{"heading":"FREE UK MAINLAND SHIPPING","icon":"option-truck"}},"content_grid_iCJFCN":{"type":"content_grid","settings":{"heading":"30 DAY RETURNS","icon":"theme-return"}},"1e939cd6-0958-4135-a9e5-c50faef01437":{"type":"variant_picker","settings":{"spacing_bottom":"1","title":"Variant picker","picker_type":"swatch","variant_options_with_thumbnails":"Color","size_guide_page":"size-guide","sizes_option":"Size"}},"divider_6cRjQn":{"type":"divider","settings":{"spacing_bottom":"2"}},"8effeb43-55b7-4ec4-ab9b-68bcd89b865b":{"type":"price","settings":{"spacing_bottom":"1","show_price_tax_info":true,"show_price_shipping_info":false,"show_price_custom_info":""}},"divider_HGwyhB":{"type":"divider","settings":{"spacing_bottom":"2"}},"wishlist_plus_wishlist_pdp_button_tXa9mC":{"type":"shopify:\/\/apps\/wishlist-plus\/blocks\/wishlist-pdp-button\/80c3b1fc-3a8f-407e-8367-ffdeebb8b612","settings":{"swym_atw_button_icon":"heart","swym_atw_icon_thickness":1.7,"swym_atw_display_btn_text":true,"swym_button_position":"default","swym_atw_button_vertical_offset":-15,"swym_atw_full_width":true,"swym_atw_button_alignment":"center","swym_add_to_wishlist_color":"#000000","swym_added_to_wishlist_color":"#222222","swym_button_text_color":"#ffffff","swym_atw_border_color":"#000000","swym_atw_border_thickness":0,"swym_atw_button_border_radius":0,"swym_enable_hover_customization":false,"swym_hover_add_to_wishlist_color":"#000000","swym_hover_added_to_wishlist_color":"#222222","swym_hover_button_text_color":"#ffffff","swym_hover_atw_border_color":"#000000","swym_hover_atw_border_thickness":0,"swym_hover_atw_button_border_radius":0,"swym_custom_css":""}},"wishlist_plus_wishlist_page_section_EVaUQr":{"type":"shopify:\/\/apps\/wishlist-plus\/blocks\/wishlist-page-section\/80c3b1fc-3a8f-407e-8367-ffdeebb8b612","settings":{}},"8604a6ff-ad0b-44dd-8068-1de4e062f8e8":{"type":"buy_buttons","settings":{"spacing_bottom":"2","show_quantity":true,"layout":"inline","show_dynamic_checkout":true,"show_gift_card_recipient":false}},"divider_a3nzeM":{"type":"divider","settings":{"spacing_bottom":"0"}},"description_qA3HqH":{"type":"description","settings":{"spacing_bottom":"1","behaviour":"row","heading":"","text_truncate":0,"icon":"theme-release","metafield_for_product_variant":"","show_block_content":true}},"1e939cd6-0955-4135-a9e5-c50faef01437":{"type":"purchase_options","settings":{"spacing_bottom":"1","show_subscription_title":true,"show_subscription_custom_info":"","show_subscription_policy":true}},"e6d841d6-2f71-40b3-956a-912df13f9f6e":{"type":"inventory_notice","settings":{"spacing_bottom":"1","inventory_threshold":15,"notice_just_text":false}},"7be6b89c-da83-4ff2-9b85-44fb28cbfa27":{"type":"pickup-availability","settings":{"spacing_bottom":"2"}},"divider_MgiKBB":{"type":"divider","settings":{"spacing_bottom":"1"}},"complementary_products_h7nWQd":{"type":"complementary_products","settings":{"spacing_bottom":"2","heading":"You may also like","icon":"theme-box","limit":4}},"opinew-stars-plugin-product":{"type":"shopify:\/\/apps\/opinew-reviews\/blocks\/product-stars\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676","settings":{}}},"block_order":["goback_zMzywG","breadcrumbs_JRrp9d","text_w7iGN6","badge_dC66pN","1e0c79e9-7de0-4eee-b9c5-f27132635fb8","sku_NRyjUw","content_grid_W3Mqy6","content_grid_iCJFCN","1e939cd6-0958-4135-a9e5-c50faef01437","divider_6cRjQn","8effeb43-55b7-4ec4-ab9b-68bcd89b865b","divider_HGwyhB","wishlist_plus_wishlist_pdp_button_tXa9mC","wishlist_plus_wishlist_page_section_EVaUQr","8604a6ff-ad0b-44dd-8068-1de4e062f8e8","divider_a3nzeM","description_qA3HqH","1e939cd6-0955-4135-a9e5-c50faef01437","e6d841d6-2f71-40b3-956a-912df13f9f6e","7be6b89c-da83-4ff2-9b85-44fb28cbfa27","divider_MgiKBB","complementary_products_h7nWQd","opinew-stars-plugin-product"],"settings":{"product_media_layout":"product__media-layout--full","product_media_layout_mobile":"product__media-layout--full--sm","product_media_aspect_ratio":"4\/3","product_media_object_fit":"contain","product_slider_auto_height":false,"media_transparent_background":true,"display_media_zoom":"click","product_media_with_thumbs":"desktop_and_mobile","product_media_thumbs_ratio":"auto","product_media_thumbs_object_fit":"cover","gallery_arrows_show_on":"both","display_media_gallery_pagination":"none","media_gallery_info":"","metafield_as_seen_on":"","color_scheme_gallery":"scheme-1","enable_sticky_info":true,"enable_actions_bar":true,"media_grid_size":"large","media_grid_position":"start","grid_gap":"4","spacing_grid":1.6,"grid_content_alignment":"start","section_width":"max-w-fluid","color_scheme":"","spacing_top":"1","spacing_bottom":"2"}},"recommendations":{"type":"product-recommendations","settings":{"layout":"layout-1","enable_slideshow_overflow":false,"heading":"You may also like","heading_size":"h3","subheading":"","button_label":"View all","button_link":"","button_style":"button--filled","show_navigation_arrows":true,"slider_autoplay":10,"tabs_button_style":"tab-btn-filled","max_products":12,"show_unavailable_products":false,"section_width":"max-w-fluid","color_scheme":"","spacing_top":"4","spacing_bottom":"4"}},"opinew-reviews-product-page-code":{"type":"apps","blocks":{"opinew-reviews-widget":{"type":"shopify:\/\/apps\/opinew-reviews\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676","settings":{}}},"block_order":["opinew-reviews-widget"],"settings":{}}},"order":["main","recommendations","opinew-reviews-product-page-code"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumbs_JRrp9d": {
+          "type": "breadcrumbs",
+          "settings": {}
+        },
+        "1e0c79e9-7de0-4eee-b9c5-f27132635fb8": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h6",
+            "spacing_bottom": "1"
+          }
+        },
+        "8effeb43-55b7-4ec4-ab9b-68bcd89b865b": {
+          "type": "price",
+          "settings": {
+            "spacing_bottom": "1",
+            "show_price_tax_info": true,
+            "show_price_shipping_info": false,
+            "show_price_custom_info": ""
+          }
+        },
+        "1e939cd6-0958-4135-a9e5-c50faef01437": {
+          "type": "variant_picker",
+          "settings": {
+            "spacing_bottom": "3",
+            "title": "Variant picker",
+            "enable_back_in_stock": true,
+            "picker_type": "swatch",
+            "variant_options_with_thumbnails": "Color",
+            "size_guide_page": "size-guide",
+            "sizes_option": "Size"
+          }
+        },
+        "8604a6ff-ad0b-44dd-8068-1de4e062f8e8": {
+          "type": "buy_buttons",
+          "settings": {
+            "spacing_bottom": "3",
+            "show_quantity": true,
+            "layout": "inline",
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "content_grid_W3Mqy6": {
+          "type": "content_grid",
+          "settings": {
+            "heading": "FREE UK MAINLAND SHIPPING",
+            "icon": "option-truck"
+          }
+        },
+        "content_grid_iCJFCN": {
+          "type": "content_grid",
+          "settings": {
+            "heading": "30 DAY RETURNS",
+            "icon": "theme-return"
+          }
+        },
+        "e6d841d6-2f71-40b3-956a-912df13f9f6e": {
+          "type": "inventory_notice",
+          "settings": {
+            "spacing_bottom": "1",
+            "inventory_threshold": 15,
+            "notice_just_text": false
+          }
+        },
+        "1e939cd6-0955-4135-a9e5-c50faef01437": {
+          "type": "purchase_options",
+          "settings": {
+            "spacing_bottom": "1",
+            "show_subscription_title": true,
+            "show_subscription_custom_info": "",
+            "show_subscription_policy": true
+          }
+        },
+        "7be6b89c-da83-4ff2-9b85-44fb28cbfa27": {
+          "type": "pickup-availability",
+          "settings": {
+            "spacing_bottom": "1"
+          }
+        },
+        "divider_MgiKBB": {
+          "type": "divider",
+          "settings": {
+            "spacing_bottom": "1"
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumbs_JRrp9d",
+        "1e0c79e9-7de0-4eee-b9c5-f27132635fb8",
+        "8effeb43-55b7-4ec4-ab9b-68bcd89b865b",
+        "1e939cd6-0958-4135-a9e5-c50faef01437",
+        "8604a6ff-ad0b-44dd-8068-1de4e062f8e8",
+        "content_grid_W3Mqy6",
+        "content_grid_iCJFCN",
+        "e6d841d6-2f71-40b3-956a-912df13f9f6e",
+        "1e939cd6-0955-4135-a9e5-c50faef01437",
+        "7be6b89c-da83-4ff2-9b85-44fb28cbfa27",
+        "divider_MgiKBB"
+      ],
+      "settings": {
+        "product_media_layout": "product__media-layout--full",
+        "product_media_layout_mobile": "product__media-layout--full--sm",
+        "product_media_aspect_ratio": "4/3",
+        "product_media_object_fit": "contain",
+        "product_slider_auto_height": false,
+        "media_transparent_background": true,
+        "display_media_zoom": "click",
+        "product_media_with_thumbs": "desktop_and_mobile",
+        "product_media_thumbs_ratio": "auto",
+        "product_media_thumbs_object_fit": "cover",
+        "gallery_arrows_show_on": "both",
+        "display_media_gallery_pagination": "none",
+        "media_gallery_info": "",
+        "metafield_as_seen_on": "",
+        "color_scheme_gallery": "scheme-1",
+        "enable_sticky_info": true,
+        "enable_actions_bar": true,
+        "media_grid_size": "large",
+        "media_grid_position": "start",
+        "grid_gap": "4",
+        "spacing_grid": 1.6,
+        "grid_content_alignment": "start",
+        "section_width": "max-w-fluid",
+        "color_scheme": "",
+        "spacing_top": "1",
+        "spacing_bottom": "2"
+      }
+    },
+    "accordions_BkMjLk": {
+      "type": "accordions",
+      "blocks": {
+        "topic_6b8hzb": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "Product Description",
+            "text": "{{ product.description }}",
+            "page": ""
+          }
+        },
+        "topic_8ECcci": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "Shipping Policy",
+            "text": "<p>Your payment will reach us immediately. Once we receive your payment we will dispatch your order same day if your order & payment reach us before 3pm (Excluding weekends & public holidays). Your order will be sent to the address given at checkout. If you need your order sent to an alternative address, you must alert the change to our customer service team prior to purchase. Once your order has been dispatched we will send you an ‘Item Dispatched’ email to let you know that your order is on its way. Expected delivery times are as follows:</p><p>United Kingdom: <br/>48 Hour courier: 1-2 working days (usually delivered by Royal Mail / My Hermes)</p><p>Europe: <br/>Royal Mail International: 3-5 working days</p><p>*All times are approximate. Please allow slightly longer for weekends and national holidays.</p>",
+            "page": ""
+          }
+        },
+        "topic_Cj6gnx": {
+          "type": "topic",
+          "settings": {
+            "is_open": false,
+            "title": "Refund policy",
+            "text": "<p>If you are not 100% satisfied with your item we will gladly accept it back for a full refund provided your initial request to return the item is within 30 days from the date of purchase. If your initial request to return the item is after 30 days from the date of purchase unfortunately we would be unable to accept the return request.</p><p>If an item is returned within 30 days because you no longer need it or want it Return Postage must be paid by you (the buyer) but if it has an issue which you can show us through pictures we will take responsibility of paying for the returns label</p><p>All returned items must be accompanied with a copy of the original sales invoice.</p><p>Once your item has been returned to us, your refund will most likely be processed within 72 hours.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "topic_6b8hzb",
+        "topic_8ECcci",
+        "topic_Cj6gnx"
+      ],
+      "name": "t:sections.accordions.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h3",
+        "section_width": "max-w-fluid",
+        "color_scheme": "",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "layout-1",
+        "enable_slideshow_overflow": false,
+        "heading": "You may also like",
+        "heading_size": "h5",
+        "subheading": "",
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "button--filled",
+        "show_navigation_arrows": true,
+        "slider_autoplay": 10,
+        "tabs_button_style": "tab-btn-filled",
+        "max_products": 12,
+        "show_unavailable_products": true,
+        "section_width": "max-w-fluid",
+        "color_scheme": "",
+        "spacing_top": "1",
+        "spacing_bottom": "1"
+      }
+    },
+    "opinew-reviews-product-page-code": {
+      "type": "apps",
+      "blocks": {
+        "opinew-reviews-widget": {
+          "type": "shopify://apps/opinew-reviews/blocks/product-widget/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "opinew-reviews-widget"
+      ],
+      "settings": {
+        "section_layout": "normal",
+        "spacing_inner": "2",
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "accordions_BkMjLk",
+    "recommendations",
+    "opinew-reviews-product-page-code"
+  ]
+}

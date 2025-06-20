@@ -1,1 +1,147 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer_xjQ6Rm":{"type":"footer","blocks":{"link_list_bMqdnL":{"type":"link_list","settings":{"column_factor":1,"row_factor":1,"menu_layout":"vertical","menu":"main-menu","title":"","title_url":"","menu_link_opacity":100,"show_first_menu_on_mobile":false}},"link_list_t8Ey8F":{"type":"link_list","settings":{"column_factor":1,"row_factor":1,"menu_layout":"vertical","menu":"categories","title":"","title_url":"","menu_link_opacity":100,"show_first_menu_on_mobile":false}},"brand_M9BKRn":{"type":"brand","settings":{"column_factor":2,"row_factor":1,"logo":"shopify:\/\/shop_images\/FROOBY_CONTACT_US_WHITE_logo_2.jpg","logo_svg_code":"","logo_width":240,"logo_width_mobile":150,"text":"<p><strong>Monday to Friday:<\/strong> 9.00am - 5.00pm GMT<\/p><p><strong>FROOBYUK@hotmail.com<\/strong><\/p><p><strong>Phone Number:<\/strong> +44 7999005880<\/p><p><strong>Company Name:<\/strong> FROOBY UK LTD<\/p><p><strong>Company Number:<\/strong> <strong>16212001<\/strong><\/p><p><strong>VAT Number: <\/strong>487 6892 12<\/p><p><strong>Address: <\/strong>Amber House, Crompton & Ward Street, OLDHAM, OL9 9ET<\/p><p><\/p>","content_position_vertical":"start","content_alignment":"center","content_alignment_for_mobile":"center"}},"link_list_EPwkFW":{"type":"link_list","settings":{"column_factor":1,"row_factor":1,"menu_layout":"vertical","menu":"footer","title":"Policies","title_url":"","menu_link_opacity":100,"show_first_menu_on_mobile":false}},"social_media_KxHYfY":{"type":"social_media","settings":{"column_factor":1,"row_factor":1,"icons":true,"social_links_in_new_tab":true,"heading":"","content_position_vertical":"start","content_alignment":"center","content_alignment_for_mobile":"center"}},"payment_icons_pBdAnt":{"type":"payment_icons","settings":{"column_factor":6,"row_factor":1,"custom_payment_types":"","payment_icons_color":true,"content_position_vertical":"center","content_alignment":"center","content_alignment_for_mobile":"center"}}},"block_order":["link_list_bMqdnL","link_list_t8Ey8F","brand_M9BKRn","link_list_EPwkFW","social_media_KxHYfY","payment_icons_pBdAnt"],"settings":{"spacing_grid":"2","show_border_top":false,"section_width":"max-w-fluid","color_scheme":"scheme-6","spacing_top":"2","spacing_bottom":"1"}},"footer_LDtTwR":{"type":"footer","blocks":{"spacer_iw8Xjz":{"type":"spacer","settings":{"show_on":"desktop","column_factor":2,"row_factor":1}},"richtext_HKEj9F":{"type":"richtext","settings":{"column_factor":2,"row_factor":1,"heading":"","text":"<p>Copyright ©[year] FROOBYUK. All rights reserved.<\/p>","content_position_vertical":"center","content_alignment":"center","content_alignment_for_mobile":"center"}},"spacer_MXdTNd":{"type":"spacer","settings":{"show_on":"desktop","column_factor":2,"row_factor":1}}},"block_order":["spacer_iw8Xjz","richtext_HKEj9F","spacer_MXdTNd"],"name":"t:sections.footer.presets.default.name","settings":{"spacing_grid":"1","show_border_top":true,"section_width":"max-w-page","color_scheme":"scheme-6","spacing_top":"0","spacing_bottom":"1"}}},"order":["footer_xjQ6Rm","footer_LDtTwR"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer_xjQ6Rm": {
+      "type": "footer",
+      "blocks": {
+        "brand_M9BKRn": {
+          "type": "brand",
+          "settings": {
+            "column_factor": 2,
+            "row_factor": 1,
+            "logo": "shopify://shop_images/FROOBY_CONTACT_US_WHITE_logo_2.jpg",
+            "logo_svg_code": "",
+            "logo_width": 140,
+            "logo_width_mobile": 140,
+            "text": "<p>We're a versatile one stop shop dedicated to enhancing every corner of your life.<br/><br/>Company Number: 16212001<br/>VAT Number: 487 6892 12</p>",
+            "content_position_vertical": "start",
+            "content_alignment": "start",
+            "content_alignment_for_mobile": "start"
+          }
+        },
+        "link_list_bMqdnL": {
+          "type": "link_list",
+          "settings": {
+            "column_factor": 1,
+            "row_factor": 1,
+            "menu_layout": "vertical",
+            "menu": "categories",
+            "title": "Shop",
+            "title_url": "",
+            "menu_link_opacity": 100,
+            "show_first_menu_on_mobile": false
+          }
+        },
+        "link_list_EPwkFW": {
+          "type": "link_list",
+          "settings": {
+            "column_factor": 1,
+            "row_factor": 1,
+            "menu_layout": "vertical",
+            "menu": "footer",
+            "title": "Useful Links",
+            "title_url": "",
+            "menu_link_opacity": 100,
+            "show_first_menu_on_mobile": false
+          }
+        },
+        "richtext_M8YjmQ": {
+          "type": "richtext",
+          "settings": {
+            "column_factor": 2,
+            "row_factor": 1,
+            "heading": "Business Info",
+            "text": "<p>Working Hours: Monday to Friday: 9.00am - 5.00pm GMT</p><p>Email: <a href=\"mailto:FROOBYUK@hotmail.com\">FROOBYUK@hotmail.com</a></p><p>Phone Number: <a href=\"tel:+447999005880\">+44 7999 005880</a></p><p>Address: Amber House, Crompton & Ward Street, OLDHAM, OL9 9ET</p>",
+            "content_position_vertical": "start",
+            "content_alignment": "start",
+            "content_alignment_for_mobile": "start"
+          }
+        },
+        "newsletter_HRU3Dg": {
+          "type": "newsletter",
+          "disabled": true,
+          "settings": {
+            "column_factor": 3,
+            "row_factor": 1,
+            "heading": "Newsletter",
+            "text": "",
+            "content_position_vertical": "start",
+            "content_alignment": "start",
+            "content_alignment_for_mobile": "start"
+          }
+        }
+      },
+      "block_order": [
+        "brand_M9BKRn",
+        "link_list_bMqdnL",
+        "link_list_EPwkFW",
+        "richtext_M8YjmQ",
+        "newsletter_HRU3Dg"
+      ],
+      "settings": {
+        "spacing_grid": "2",
+        "show_border_top": false,
+        "section_width": "max-w-fluid",
+        "color_scheme": "scheme-6",
+        "spacing_top": "4",
+        "spacing_bottom": "1"
+      }
+    },
+    "footer_pRf9EK": {
+      "type": "footer",
+      "blocks": {
+        "richtext_bNt3TA": {
+          "type": "richtext",
+          "settings": {
+            "column_factor": 2,
+            "row_factor": 1,
+            "heading": "",
+            "text": "<p>Copyright ©[year] All rights reserved.</p>",
+            "content_position_vertical": "start",
+            "content_alignment": "start",
+            "content_alignment_for_mobile": "start"
+          }
+        },
+        "payment_icons_VmYtGN": {
+          "type": "payment_icons",
+          "settings": {
+            "column_factor": 4,
+            "row_factor": 1,
+            "custom_payment_types": "",
+            "payment_icons_color": true,
+            "content_position_vertical": "start",
+            "content_alignment": "end",
+            "content_alignment_for_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_bNt3TA",
+        "payment_icons_VmYtGN"
+      ],
+      "name": "t:sections.footer.presets.default.name",
+      "settings": {
+        "spacing_grid": "1",
+        "show_border_top": true,
+        "section_width": "max-w-fluid",
+        "color_scheme": "scheme-6",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    }
+  },
+  "order": [
+    "footer_xjQ6Rm",
+    "footer_pRf9EK"
+  ]
+}

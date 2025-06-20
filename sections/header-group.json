@@ -1,1 +1,126 @@
-{"name":"t:sections.header.name","type":"header","sections":{"header":{"type":"header","settings":{"layout":"header--nav-centered","sticky":true,"nav_items_border":false,"drawer_layer":true,"logo_svg_code":"","logo_width":100,"logo_width_mobile":100,"logo_font_size":1.5,"transparent_header_bottom_border":true,"country_drawer_header":false,"country_drawer_navigation_menu":false,"utils_link_display":"icon","first_additional_link_title":"","first_additional_link_url":"","second_additional_link_title":"","second_additional_link_url":"","menu":"main-menu","menu_mobile":"","submenu":"","menu_mobile_card_column_count":"2","parent_link_size":"md","parent_without_submenu_size":"lg","spacing_between_cards":"2","card_aspect_ratio":"16\/9","card_aspect_ratio_mobile":"3\/4","megamenu_dropdown_column_width":23.4,"section_width":"max-w-fluid","color_scheme":"scheme-1","color_scheme_for_dropdown":"scheme-1","color_scheme_for_drawer":""}},"announcement_bar_DRkkM9":{"type":"announcement-bar","blocks":{"text_slide_nqfNKy":{"type":"text-slide","settings":{"content":"<p>Free UK Delivery<\/p>","icon":"option-truck"}},"text_slide_UPyfjF":{"type":"text-slide","settings":{"content":"<p>30 Day Returns<\/p>","icon":"theme-return"}},"text_slide_QTKcYJ":{"type":"text-slide","settings":{"content":"<p>Same Day Dispatch until 3PM<\/p>","icon":"theme-box"}}},"block_order":["text_slide_nqfNKy","text_slide_UPyfjF","text_slide_QTKcYJ"],"settings":{"text_block_behaviour":"marquee","slider_autoplay_interval":3,"font_weight":"700","section_width":"max-w-full","color_scheme":"scheme-6"}}},"order":["header","announcement_bar_DRkkM9"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement_bar_DRkkM9": {
+      "type": "announcement-bar",
+      "blocks": {
+        "text_slide_QTKcYJ": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>Same Day Dispatch until 3PM</p>",
+            "icon": ""
+          }
+        },
+        "text_slide_QywYmP": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>Free UK Delivery</p>",
+            "icon": ""
+          }
+        },
+        "text_slide_a3wMYw": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>30 Days Return</p>",
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_QTKcYJ",
+        "text_slide_QywYmP",
+        "text_slide_a3wMYw"
+      ],
+      "settings": {
+        "text_block_behaviour": "slider",
+        "slider_autoplay_interval": 7,
+        "font_weight": "500",
+        "section_width": "max-w-fluid",
+        "color_scheme": "scheme-6"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "image_link_text_zzPmfE": {
+          "type": "image-link-text",
+          "settings": {
+            "show_on": "both",
+            "menu_item_position": 2,
+            "color_scheme": "scheme-2",
+            "card_aspect_ratio": "16/9",
+            "content_position_horizontal": "align-end text-end",
+            "content_position_vertical": "justify-start",
+            "title": "",
+            "subtitle": "",
+            "link": ""
+          }
+        },
+        "image_link_text_PzzUaB": {
+          "type": "image-link-text",
+          "settings": {
+            "show_on": "both",
+            "menu_item_position": 3,
+            "color_scheme": "scheme-2",
+            "card_aspect_ratio": "same_as_section",
+            "content_position_horizontal": "align-start text-start",
+            "content_position_vertical": "justify-end",
+            "title": "",
+            "subtitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_link_text_zzPmfE",
+        "image_link_text_PzzUaB"
+      ],
+      "settings": {
+        "layout": "header--nav-centered",
+        "sticky": true,
+        "nav_items_border": false,
+        "drawer_layer": true,
+        "logo_svg_code": "",
+        "logo_width": 100,
+        "logo_width_mobile": 100,
+        "logo_font_size": 1.5,
+        "transparent_header_bottom_border": false,
+        "country_drawer_header": false,
+        "country_drawer_navigation_menu": false,
+        "utils_link_display": "icon",
+        "first_additional_link_title": "",
+        "first_additional_link_url": "",
+        "second_additional_link_title": "",
+        "second_additional_link_url": "",
+        "menu": "main-menu",
+        "menu_mobile": "",
+        "submenu": "",
+        "menu_mobile_card_column_count": "2",
+        "parent_link_size": "xxl",
+        "parent_without_submenu_size": "h5",
+        "spacing_between_cards": "2",
+        "card_aspect_ratio": "16/9",
+        "card_aspect_ratio_mobile": "3/4",
+        "megamenu_dropdown_column_width": 23.4,
+        "section_width": "max-w-fluid",
+        "color_scheme": "scheme-5",
+        "color_scheme_for_dropdown": "scheme-1",
+        "color_scheme_for_drawer": ""
+      }
+    }
+  },
+  "order": [
+    "announcement_bar_DRkkM9",
+    "header"
+  ]
+}

@@ -109,7 +109,7 @@ footer .border-block-start {
 }
 
 .footer__block-heading {
-  font-size: var(--font-size-static-xs);
+  font-size: var(--font-size-static-lg);
   text-transform: uppercase;
   letter-spacing: 0.16rem;
   padding-block: 0.625rem;

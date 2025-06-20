@@ -1,1 +1,547 @@
-{"sections":{"1658995208ad05f95f":{"type":"hero-banner","blocks":{"8d591e0b-d408-44f1-8bd2-9b71f529aa90":{"type":"slide","settings":{"banner_layout":"hero-banner--full","color_scheme":"scheme-6","header_menu_text_color":"#ffffff","heading":"<p>FROOBY<\/p>","subheading":"","subheading_link":"","text":"","button_link_1":"shopify:\/\/collections\/all","button_link_1_type":"button","button_label_1":"Shop Now","button_style_1":"button--outlined","button_link_2":"shopify:\/\/collections","button_label_2":"","button_style_2":"button--outlined","content_position":"center","content_alignment":"center","image":"shopify:\/\/shop_images\/FROOBY_CATEGORIES_logo_2_026f77aa-e503-4833-9754-67dcf624aa7d.jpg","video_external":"","show_controls_on_video":false,"enable_media_overlay_desktop":false,"content_position_mobile":"center","content_alignment_mobile":"center","image_mobile":"shopify:\/\/shop_images\/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg","video_external_mobile":"","show_controls_on_video_mobile":false,"enable_media_overlay_mobile":true}},"slide_aQizGj":{"type":"slide","settings":{"banner_layout":"hero-banner--70-30","color_scheme":"scheme-6","header_menu_text_color":"#ffffff","heading":"<p>Fitness<\/p>","subheading":"","subheading_link":"","text":"<p>Boost your workouts with our fitness products! Stay active, stay strong 💪<\/p>","button_link_1":"shopify:\/\/collections\/gym-equipment","button_link_1_type":"button","button_label_1":"EXPLORE","button_style_1":"button--outlined","button_link_2":"","button_label_2":"","button_style_2":"button--outlined","content_position":"center","content_alignment":"center","image":"shopify:\/\/shop_images\/1-Photoroom_14_-Photoroom_1.jpg","video_external":"","show_controls_on_video":false,"enable_media_overlay_desktop":false,"content_position_mobile":"center","content_alignment_mobile":"center","image_mobile":"shopify:\/\/shop_images\/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg","video_external_mobile":"","show_controls_on_video_mobile":false,"enable_media_overlay_mobile":true}},"slide_BdeRpH":{"type":"slide","settings":{"banner_layout":"hero-banner--30-70","color_scheme":"scheme-6","header_menu_text_color":"#ffffff","heading":"<p>TOOLS<\/p>","subheading":"","subheading_link":"","text":"<p>High quality tools. Get the job done right every time! 🔧⚙️<\/p>","button_link_1":"","button_link_1_type":"button","button_label_1":"","button_style_1":"button--filled","button_link_2":"shopify:\/\/collections\/tools","button_label_2":"Explore","button_style_2":"button--outlined","content_position":"center","content_alignment":"center","image":"shopify:\/\/shop_images\/1-Photoroom_14_-Photoroom.jpg","video_external":"","show_controls_on_video":false,"enable_media_overlay_desktop":false,"content_position_mobile":"center","content_alignment_mobile":"center","image_mobile":"shopify:\/\/shop_images\/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg","video_external_mobile":"","show_controls_on_video_mobile":false,"enable_media_overlay_mobile":false}}},"block_order":["8d591e0b-d408-44f1-8bd2-9b71f529aa90","slide_aQizGj","slide_BdeRpH"],"settings":{"enable_transparent_header":false,"slider_height":50,"slideshow_autoplay_interval":5,"show_slideshow_navigation":false,"slideshow_navigation_position":"hero__swiper-buttons--sides","color_scheme_arrows":"scheme-6","show_slideshow_pagination":false,"slideshow_pagination_style":"style-2","floating_bar":false}},"announcement_bar_PrVdXX":{"type":"announcement-bar","blocks":{"text_slide_3aXebp":{"type":"text-slide","settings":{"content":"<p>10% OFF YOUR FIRST ORDER IF YOU USE CODE ' FROOBY10 ' IN CHECKOUT<\/p>","icon":""}},"text_slide_BXKqaV":{"type":"text-slide","settings":{"content":"<p>10% OFF YOUR FIRST ORDER IF YOU USE CODE ' FROOBY10 ' IN CHECKOUT<\/p>","icon":""}}},"block_order":["text_slide_3aXebp","text_slide_BXKqaV"],"settings":{"text_block_behaviour":"marquee","slider_autoplay_interval":9,"font_weight":"700","section_width":"max-w-full","color_scheme":"scheme-3"}},"featured_products_pMFTtf":{"type":"featured-products","blocks":{"collection_NgfPGn":{"type":"collection","settings":{"title":"","collection":"","products":["30kg-dumbbells-barbell-set-with-connecting-rod-adjustable-dumbbell-home-gym-new","40kg-adjustable-dumbbell-5kg-to-40kg-15-in-1-fitness-exercise-quick-dial-single","foldable-dumbbell-bench-weight-training-workout-gym-7-incline-adjustable-uk-36-7","6-tier-dumbbell-rack-storage-stand-tree-hex-vertical-weight-wide-home-gym-45-4","3-tier-dumbbell-rack","adjustable-dumbbell-24kg-home-gym-15-in-1-quick-dial-smart-exercise-fitness-hand","gym-fitness-bar-chin-pull-up-strength-situp-dips-exercise-workout-door-bars-36-2","hex-dumbbells-set-pair-ergo-iron-hand-weights-rubber-encased-hexagonal-gym-dumbell","mini-exercise-bike-portable-pedal-exerciser-arm-leg-cycle-indoor-gym-fitness-uk"],"vendor":"","collection_of_products":"","show_unavailable_products":false,"card_text_heading":"","card_text_button_label":"","card_text_button_style":"button--filled","card_text_button_link":"","content_position":"center","content_alignment":"center"}}},"block_order":["collection_NgfPGn"],"settings":{"layout":"layout-1","heading":"FITNESS","heading_size":"h2","subheading":"","button_label":"View all","button_link":"shopify:\/\/collections\/gym-equipment","button_style":"button--filled","max_products":12,"enable_slideshow_overflow":true,"show_navigation_arrows":true,"slideshow_autoplay_interval":10,"tab_button_style":"button--filled","section_width":"max-w-page","color_scheme":"scheme-1","spacing_top":"1","spacing_bottom":"0"}},"featured_products_3Bw4jT":{"type":"featured-products","blocks":{"collection_zGEhTz":{"type":"collection","settings":{"title":"","collection":"","products":["10-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container","50-x-115mm-4-5-thin-metal-cutting-blade-disc-for-steel-stainless-for-grinder","cobra-500mm-20-inch-hand-saw-wood-carpentry-8-tpi-sharp-point-hard-point-23-21","extendable-wheel-wrench-telescopic-brace-socket-car-van-tyre-nut-17-19-21-23mm","10-metal-hacksaw-blades-12-300mm-24tpi","10-x-angle-grinder-flat-twist-knot-wire-wheel-brush-set-m14-4-5-115mm-new-3-7","10-x-twist-knot-semi-flat-wire-wheel-cup-brush-set-for-115mm-angle-grinder-3-8","16-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container","22-carbon-steel-blade-shears-hedge-grass-shrub-garden-bushes-grip-handle-23-76","3-x-4-5-115mm-diamond-cutting-disc-angle-grinder-blade-grinding-stone-marble-uk","h-duty-25pc-wire-brush-set-rotary-drill-attachment-wheel-cup-flat-sanding-ct622","van-high-security-padlock-hasp-set-door-75mm-nuts-bolts-fixings"],"vendor":"","collection_of_products":"","show_unavailable_products":false,"card_text_heading":"","card_text_button_label":"","card_text_button_style":"button--filled","card_text_button_link":"","content_position":"center","content_alignment":"center"}}},"block_order":["collection_zGEhTz"],"settings":{"layout":"layout-1","heading":"TOOLS","heading_size":"h2","subheading":"","button_label":"View all","button_link":"shopify:\/\/collections\/tools","button_style":"button--filled","max_products":12,"enable_slideshow_overflow":true,"show_navigation_arrows":true,"slideshow_autoplay_interval":10,"tab_button_style":"button--filled","section_width":"max-w-page","color_scheme":"","spacing_top":"1","spacing_bottom":"0"}},"featured_products_NQdanV":{"type":"featured-products","blocks":{"collection_LHadaQ":{"type":"collection","settings":{"title":"","collection":"","products":["strong-vacuum-storage-space-saver-saving-bags-vacum-vaccum-bag-duvet-blanket-new","heavy-duty-double-rail-clothes-garment-hanging-rack-shelf-display-stand-uk-33-5","foldable-extra-large-4-tier-indoor-outdoor-clothes-airer-laundry-dryer-rack-uk","2-in-1-kids-baby-toilet-seat-toddler-training-potty-trainer-safety-chair-urinal","2-6-4-4m-telescopic-aluminium-ladder","large-lockable-mailbox-postbox-outside-post-letter-box-wall-mounted-black-49-3","frooby-12l-dehumidifier-mould-moisture-condensation-extraction-quiet-timer-40-1","garden-hose-pipe-reel-tough-reinforced-outdoor-hosepipe-metres-spray-gun-set","magnetic-whiteboard-w-chalkboard-eraser-pens","black-large-letter-box-post-mail-box-wall-mounted-modern-lockable-with-keys-49-1","plain-black-mailbox-with-keys-49-2","wooden-coat-hangers-suit-garments-clothes-wood-hanger-strong-trouser-bar-set-341"],"vendor":"","collection_of_products":"","show_unavailable_products":true,"card_text_heading":"","card_text_button_label":"","card_text_button_style":"button--filled","card_text_button_link":"","content_position":"center","content_alignment":"center"}}},"block_order":["collection_LHadaQ"],"settings":{"layout":"layout-1","heading":"HOME & LIVING","heading_size":"h2","subheading":"","button_label":"View all","button_link":"shopify:\/\/collections\/tools","button_style":"button--filled","max_products":12,"enable_slideshow_overflow":true,"show_navigation_arrows":true,"slideshow_autoplay_interval":10,"tab_button_style":"button--filled","section_width":"max-w-page","color_scheme":"","spacing_top":"1","spacing_bottom":"0"}},"full_width_banner_BAzegt":{"type":"full-width-banner","blocks":{"heading_U8BzAK":{"type":"heading","settings":{"heading":"GREAT PRICES, EVEN GREATER QUALITY !!!","heading_size":"h2"}}},"block_order":["heading_U8BzAK"],"settings":{"enable_transparent_header":true,"media_position":"background","section_height":"third","content_position":"center","content_alignment":"center","video_external":"","show_controls_on_video":false,"aspect_ratio":"auto","section_height_mobile":"third","content_position_mobile":"center","content_alignment_mobile":"center","video_external_mobile":"","show_controls_on_video_mobile":false,"aspect_ratio_mobile":"auto","section_width":"max-w-fluid","color_scheme":"","color_scheme_for_content":"scheme-6","spacing_inner":"2","spacing_top":"1","spacing_bottom":"1"}},"testimonials_CMyt3F":{"type":"testimonials","blocks":{"testimonial_qXzkny":{"type":"testimonial","settings":{"author":"Alex Thompson","quote":"<p>After trying countless products, I finally found the perfect match with this brand; my Workouts have never felt so good!<\/p>","rating_score":5,"color_scheme":"scheme-1"}},"testimonial_nX8zAH":{"type":"testimonial","settings":{"author":"Chris Wu","quote":"<p>“I absolutely love the quality of my Weight Bench.”<\/p>","rating_score":5,"color_scheme":"scheme-1"}},"testimonial_NUmDwd":{"type":"testimonial","settings":{"author":"Michael Richards","quote":"<p>Good communication, Easy delivery, Would definitely recommend 👍<\/p>","rating_score":4,"color_scheme":"scheme-1"}},"testimonial_jbrGqN":{"type":"testimonial","settings":{"author":"Jonathan Carter","quote":"<p>Five stars all the way! The customer service was outstanding<\/p>","rating_score":5,"color_scheme":"scheme-1"}}},"block_order":["testimonial_qXzkny","testimonial_nX8zAH","testimonial_NUmDwd","testimonial_jbrGqN"],"settings":{"heading":"Testimonials","heading_size":"h2","subheading":"","rating_icon":"star","layout":"horizontal-w-media","slider_autoplay":3,"image":"shopify:\/\/shop_images\/36-7_Workout_Gym_Bench_1-Photoroom_1.png","image_position":"image-start","image_aspect_ratio":"1 \/ 1","media_show_on":"desktop","spacing_inner":"0","section_width":"max-w-fluid","color_scheme":"scheme-5","spacing_top":"0","spacing_bottom":"0"}},"social_media_highlights_fVaa73":{"type":"social-media-highlights","blocks":{"image_Y3B3TH":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/cross-fit-rope-workout.jpg","image_url":"","card_aspect_ratio":"1\/1"}},"image_m9bXnL":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/abs-workout-tire.jpg","image_url":"","card_aspect_ratio":"1\/1"}},"image_34bPnK":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/arm-back-muscles.jpg","image_url":"","card_aspect_ratio":"1\/1"}},"image_Lcx9JC":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/heavy-lifting-man.jpg","image_url":"","card_aspect_ratio":"1\/1"}}},"block_order":["image_Y3B3TH","image_m9bXnL","image_34bPnK","image_Lcx9JC"],"settings":{"layout":"default","remove_desktop_spacing":false,"heading":"Join the <em>family<\/em>","heading_size":"h3","subheading":"","button_label":"Follow us","button_link":"https:\/\/www.instagram.com\/froobyuk?igsh=bTY0b2Jqazd0bnZj","button_style":"button--outlined","button_icon":"brand-instagram","content_card_color_scheme":"scheme-6","media_aspect_ratio":"1\/1","autoplay_speed":5,"section_width":"max-w-full","color_scheme":"scheme-1","spacing_top":"1","spacing_bottom":"0"}},"main_list_collections_WLTWRa":{"type":"main-list-collections","blocks":{"collection_zHXWEc":{"type":"collection","settings":{"color_scheme":"scheme-1","collection":"gym-equipment","heading":"‎","heading_size":"h6","subheading":""}},"collection_bGiPkw":{"type":"collection","settings":{"color_scheme":"scheme-1","collection":"home-essentials","heading":"‎","heading_size":"h6","subheading":""}},"collection_YAYtiW":{"type":"collection","settings":{"color_scheme":"scheme-1","collection":"tools","heading":"‎","heading_size":"h6","subheading":""}}},"block_order":["collection_zHXWEc","collection_bGiPkw","collection_YAYtiW"],"settings":{"collections_to_show":"selected","card_title_style":"card-single-text","collection_product_count":"hide","collections_per_page":3,"pagination_style":"default","enable_infinity_scroll":false,"section_width":"max-w-page","color_scheme":"","spacing_top":"0","spacing_bottom":"0"}}},"order":["1658995208ad05f95f","announcement_bar_PrVdXX","featured_products_pMFTtf","featured_products_3Bw4jT","featured_products_NQdanV","full_width_banner_BAzegt","testimonials_CMyt3F","social_media_highlights_fVaa73","main_list_collections_WLTWRa"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "1658995208ad05f95f": {
+      "type": "hero-banner",
+      "blocks": {
+        "8d591e0b-d408-44f1-8bd2-9b71f529aa90": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme": "scheme-6",
+            "header_menu_text_color": "#ffffff",
+            "heading": "<p>FROOBY</p>",
+            "subheading": "",
+            "subheading_link": "",
+            "text": "",
+            "button_link_1": "shopify://collections/all",
+            "button_link_1_type": "button",
+            "button_label_1": "Shop Now",
+            "button_style_1": "button--outlined",
+            "button_link_2": "shopify://collections",
+            "button_label_2": "",
+            "button_style_2": "button--outlined",
+            "content_position": "center",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/FROOBY_CATEGORIES_logo_2_026f77aa-e503-4833-9754-67dcf624aa7d.jpg",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": false,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": true
+          }
+        },
+        "slide_aQizGj": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--70-30",
+            "color_scheme": "scheme-6",
+            "header_menu_text_color": "#ffffff",
+            "heading": "<p>Fitness</p>",
+            "subheading": "",
+            "subheading_link": "",
+            "text": "<p>Boost your workouts with our fitness products! Stay active, stay strong 💪</p>",
+            "button_link_1": "shopify://collections/gym-equipment",
+            "button_link_1_type": "button",
+            "button_label_1": "EXPLORE",
+            "button_style_1": "button--outlined",
+            "button_link_2": "",
+            "button_label_2": "",
+            "button_style_2": "button--outlined",
+            "content_position": "center",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/1-Photoroom_14_-Photoroom_1.jpg",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": false,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": true
+          }
+        },
+        "slide_BdeRpH": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--30-70",
+            "color_scheme": "scheme-6",
+            "header_menu_text_color": "#ffffff",
+            "heading": "<p>TOOLS</p>",
+            "subheading": "",
+            "subheading_link": "",
+            "text": "<p>High quality tools. Get the job done right every time! 🔧⚙️</p>",
+            "button_link_1": "",
+            "button_link_1_type": "button",
+            "button_label_1": "",
+            "button_style_1": "button--filled",
+            "button_link_2": "shopify://collections/tools",
+            "button_label_2": "Explore",
+            "button_style_2": "button--outlined",
+            "content_position": "center",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/1-Photoroom_14_-Photoroom.jpg",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": false,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/FROOBY_CATEGORIES_phone_logo_584b3d16-5953-4358-a77d-3c3b46ce9ee4.jpg",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "8d591e0b-d408-44f1-8bd2-9b71f529aa90",
+        "slide_aQizGj",
+        "slide_BdeRpH"
+      ],
+      "settings": {
+        "enable_transparent_header": false,
+        "slider_height": 50,
+        "slideshow_autoplay_interval": 5,
+        "show_slideshow_navigation": false,
+        "slideshow_navigation_position": "hero__swiper-buttons--sides",
+        "color_scheme_arrows": "scheme-6",
+        "show_slideshow_pagination": false,
+        "slideshow_pagination_style": "style-2",
+        "floating_bar": false
+      }
+    },
+    "announcement_bar_PrVdXX": {
+      "type": "announcement-bar",
+      "blocks": {
+        "text_slide_3aXebp": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>10% OFF YOUR FIRST ORDER IF YOU USE CODE ' FROOBY10 ' IN CHECKOUT</p>",
+            "icon": ""
+          }
+        },
+        "text_slide_BXKqaV": {
+          "type": "text-slide",
+          "settings": {
+            "content": "<p>10% OFF YOUR FIRST ORDER IF YOU USE CODE ' FROOBY10 ' IN CHECKOUT</p>",
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_3aXebp",
+        "text_slide_BXKqaV"
+      ],
+      "settings": {
+        "text_block_behaviour": "marquee",
+        "slider_autoplay_interval": 9,
+        "font_weight": "700",
+        "section_width": "max-w-full",
+        "color_scheme": "scheme-3"
+      }
+    },
+    "featured_products_pMFTtf": {
+      "type": "featured-products",
+      "blocks": {
+        "collection_NgfPGn": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "",
+            "products": [
+              "30kg-dumbbells-barbell-set-with-connecting-rod-adjustable-dumbbell-home-gym-new",
+              "40kg-adjustable-dumbbell-5kg-to-40kg-15-in-1-fitness-exercise-quick-dial-single",
+              "foldable-dumbbell-bench-weight-training-workout-gym-7-incline-adjustable-uk-36-7",
+              "6-tier-dumbbell-rack-storage-stand-tree-hex-vertical-weight-wide-home-gym-45-4",
+              "3-tier-dumbbell-rack",
+              "adjustable-dumbbell-24kg-home-gym-15-in-1-quick-dial-smart-exercise-fitness-hand",
+              "gym-fitness-bar-chin-pull-up-strength-situp-dips-exercise-workout-door-bars-36-2",
+              "hex-dumbbells-set-pair-ergo-iron-hand-weights-rubber-encased-hexagonal-gym-dumbell",
+              "mini-exercise-bike-portable-pedal-exerciser-arm-leg-cycle-indoor-gym-fitness-uk"
+            ],
+            "vendor": "",
+            "collection_of_products": "",
+            "show_unavailable_products": false,
+            "card_text_heading": "",
+            "card_text_button_label": "",
+            "card_text_button_style": "button--filled",
+            "card_text_button_link": "",
+            "content_position": "center",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_NgfPGn"
+      ],
+      "settings": {
+        "layout": "layout-1",
+        "heading": "FITNESS",
+        "heading_size": "h2",
+        "subheading": "",
+        "button_label": "View all",
+        "button_link": "shopify://collections/gym-equipment",
+        "button_style": "button--filled",
+        "max_products": 12,
+        "enable_slideshow_overflow": true,
+        "show_navigation_arrows": true,
+        "slideshow_autoplay_interval": 10,
+        "tab_button_style": "button--filled",
+        "section_width": "max-w-page",
+        "color_scheme": "scheme-1",
+        "spacing_top": "1",
+        "spacing_bottom": "0"
+      }
+    },
+    "featured_products_3Bw4jT": {
+      "type": "featured-products",
+      "blocks": {
+        "collection_zGEhTz": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "",
+            "products": [
+              "10-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container",
+              "50-x-115mm-4-5-thin-metal-cutting-blade-disc-for-steel-stainless-for-grinder",
+              "cobra-500mm-20-inch-hand-saw-wood-carpentry-8-tpi-sharp-point-hard-point-23-21",
+              "extendable-wheel-wrench-telescopic-brace-socket-car-van-tyre-nut-17-19-21-23mm",
+              "10-metal-hacksaw-blades-12-300mm-24tpi",
+              "10-x-angle-grinder-flat-twist-knot-wire-wheel-brush-set-m14-4-5-115mm-new-3-7",
+              "10-x-twist-knot-semi-flat-wire-wheel-cup-brush-set-for-115mm-angle-grinder-3-8",
+              "16-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container",
+              "22-carbon-steel-blade-shears-hedge-grass-shrub-garden-bushes-grip-handle-23-76",
+              "3-x-4-5-115mm-diamond-cutting-disc-angle-grinder-blade-grinding-stone-marble-uk",
+              "h-duty-25pc-wire-brush-set-rotary-drill-attachment-wheel-cup-flat-sanding-ct622",
+              "van-high-security-padlock-hasp-set-door-75mm-nuts-bolts-fixings"
+            ],
+            "vendor": "",
+            "collection_of_products": "",
+            "show_unavailable_products": false,
+            "card_text_heading": "",
+            "card_text_button_label": "",
+            "card_text_button_style": "button--filled",
+            "card_text_button_link": "",
+            "content_position": "center",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_zGEhTz"
+      ],
+      "settings": {
+        "layout": "layout-1",
+        "heading": "TOOLS",
+        "heading_size": "h2",
+        "subheading": "",
+        "button_label": "View all",
+        "button_link": "shopify://collections/tools",
+        "button_style": "button--filled",
+        "max_products": 12,
+        "enable_slideshow_overflow": true,
+        "show_navigation_arrows": true,
+        "slideshow_autoplay_interval": 10,
+        "tab_button_style": "button--filled",
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "spacing_top": "1",
+        "spacing_bottom": "0"
+      }
+    },
+    "featured_products_NQdanV": {
+      "type": "featured-products",
+      "blocks": {
+        "collection_LHadaQ": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "",
+            "products": [
+              "strong-vacuum-storage-space-saver-saving-bags-vacum-vaccum-bag-duvet-blanket-new",
+              "heavy-duty-double-rail-clothes-garment-hanging-rack-shelf-display-stand-uk-33-5",
+              "foldable-extra-large-4-tier-indoor-outdoor-clothes-airer-laundry-dryer-rack-uk",
+              "2-in-1-kids-baby-toilet-seat-toddler-training-potty-trainer-safety-chair-urinal",
+              "2-6-4-4m-telescopic-aluminium-ladder",
+              "large-lockable-mailbox-postbox-outside-post-letter-box-wall-mounted-black-49-3",
+              "frooby-12l-dehumidifier-mould-moisture-condensation-extraction-quiet-timer-40-1",
+              "garden-hose-pipe-reel-tough-reinforced-outdoor-hosepipe-metres-spray-gun-set",
+              "magnetic-whiteboard-w-chalkboard-eraser-pens",
+              "black-large-letter-box-post-mail-box-wall-mounted-modern-lockable-with-keys-49-1",
+              "plain-black-mailbox-with-keys-49-2",
+              "wooden-coat-hangers-suit-garments-clothes-wood-hanger-strong-trouser-bar-set-341"
+            ],
+            "vendor": "",
+            "collection_of_products": "",
+            "show_unavailable_products": true,
+            "card_text_heading": "",
+            "card_text_button_label": "",
+            "card_text_button_style": "button--filled",
+            "card_text_button_link": "",
+            "content_position": "center",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_LHadaQ"
+      ],
+      "settings": {
+        "layout": "layout-1",
+        "heading": "HOME & LIVING",
+        "heading_size": "h2",
+        "subheading": "",
+        "button_label": "View all",
+        "button_link": "shopify://collections/tools",
+        "button_style": "button--filled",
+        "max_products": 12,
+        "enable_slideshow_overflow": true,
+        "show_navigation_arrows": true,
+        "slideshow_autoplay_interval": 10,
+        "tab_button_style": "button--filled",
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "spacing_top": "1",
+        "spacing_bottom": "0"
+      }
+    },
+    "full_width_banner_BAzegt": {
+      "type": "full-width-banner",
+      "blocks": {
+        "heading_U8BzAK": {
+          "type": "heading",
+          "settings": {
+            "heading": "GREAT PRICES, EVEN GREATER QUALITY !!!",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U8BzAK"
+      ],
+      "settings": {
+        "enable_transparent_header": true,
+        "media_position": "background",
+        "section_height": "third",
+        "content_position": "center",
+        "content_alignment": "center",
+        "video_external": "",
+        "show_controls_on_video": false,
+        "aspect_ratio": "auto",
+        "section_height_mobile": "third",
+        "content_position_mobile": "center",
+        "content_alignment_mobile": "center",
+        "video_external_mobile": "",
+        "show_controls_on_video_mobile": false,
+        "aspect_ratio_mobile": "auto",
+        "section_width": "max-w-fluid",
+        "color_scheme": "",
+        "color_scheme_for_content": "scheme-6",
+        "spacing_inner": "2",
+        "spacing_top": "1",
+        "spacing_bottom": "1"
+      }
+    },
+    "testimonials_CMyt3F": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_qXzkny": {
+          "type": "testimonial",
+          "settings": {
+            "author": "Alex Thompson",
+            "quote": "<p>After trying countless products, I finally found the perfect match with this brand; my Workouts have never felt so good!</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_nX8zAH": {
+          "type": "testimonial",
+          "settings": {
+            "author": "Chris Wu",
+            "quote": "<p>“I absolutely love the quality of my Weight Bench.”</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_NUmDwd": {
+          "type": "testimonial",
+          "settings": {
+            "author": "Michael Richards",
+            "quote": "<p>Good communication, Easy delivery, Would definitely recommend 👍</p>",
+            "rating_score": 4,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_jbrGqN": {
+          "type": "testimonial",
+          "settings": {
+            "author": "Jonathan Carter",
+            "quote": "<p>Five stars all the way! The customer service was outstanding</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_qXzkny",
+        "testimonial_nX8zAH",
+        "testimonial_NUmDwd",
+        "testimonial_jbrGqN"
+      ],
+      "settings": {
+        "heading": "Testimonials",
+        "heading_size": "h2",
+        "subheading": "",
+        "rating_icon": "star",
+        "layout": "horizontal-w-media",
+        "slider_autoplay": 3,
+        "image": "shopify://shop_images/36-7_Workout_Gym_Bench_1-Photoroom_1.png",
+        "image_position": "image-start",
+        "image_aspect_ratio": "1 / 1",
+        "media_show_on": "desktop",
+        "spacing_inner": "0",
+        "section_width": "max-w-fluid",
+        "color_scheme": "scheme-5",
+        "spacing_top": "0",
+        "spacing_bottom": "0"
+      }
+    },
+    "social_media_highlights_fVaa73": {
+      "type": "social-media-highlights",
+      "blocks": {
+        "image_Y3B3TH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cross-fit-rope-workout.jpg",
+            "image_url": "",
+            "card_aspect_ratio": "1/1"
+          }
+        },
+        "image_m9bXnL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/abs-workout-tire.jpg",
+            "image_url": "",
+            "card_aspect_ratio": "1/1"
+          }
+        },
+        "image_34bPnK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/arm-back-muscles.jpg",
+            "image_url": "",
+            "card_aspect_ratio": "1/1"
+          }
+        },
+        "image_Lcx9JC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/heavy-lifting-man.jpg",
+            "image_url": "",
+            "card_aspect_ratio": "1/1"
+          }
+        }
+      },
+      "block_order": [
+        "image_Y3B3TH",
+        "image_m9bXnL",
+        "image_34bPnK",
+        "image_Lcx9JC"
+      ],
+      "settings": {
+        "layout": "default",
+        "remove_desktop_spacing": false,
+        "heading": "Join the <em>family</em>",
+        "heading_size": "h3",
+        "subheading": "",
+        "button_label": "Follow us",
+        "button_link": "https://www.instagram.com/froobyuk?igsh=bTY0b2Jqazd0bnZj",
+        "button_style": "button--outlined",
+        "button_icon": "brand-instagram",
+        "content_card_color_scheme": "scheme-6",
+        "media_aspect_ratio": "1/1",
+        "autoplay_speed": 5,
+        "section_width": "max-w-full",
+        "color_scheme": "scheme-1",
+        "spacing_top": "1",
+        "spacing_bottom": "0"
+      }
+    },
+    "main_list_collections_WLTWRa": {
+      "type": "main-list-collections",
+      "blocks": {
+        "collection_zHXWEc": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "gym-equipment",
+            "heading": "‎",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_bGiPkw": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "home-essentials",
+            "heading": "‎",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_YAYtiW": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "tools",
+            "heading": "‎",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_zHXWEc",
+        "collection_bGiPkw",
+        "collection_YAYtiW"
+      ],
+      "settings": {
+        "collections_to_show": "selected",
+        "card_title_style": "card-single-text",
+        "collection_product_count": "hide",
+        "collections_per_page": 3,
+        "pagination_style": "default",
+        "enable_infinity_scroll": false,
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "spacing_top": "0",
+        "spacing_bottom": "0"
+      }
+    }
+  },
+  "order": [
+    "1658995208ad05f95f",
+    "announcement_bar_PrVdXX",
+    "featured_products_pMFTtf",
+    "featured_products_3Bw4jT",
+    "featured_products_NQdanV",
+    "full_width_banner_BAzegt",
+    "testimonials_CMyt3F",
+    "social_media_highlights_fVaa73",
+    "main_list_collections_WLTWRa"
+  ]
+}

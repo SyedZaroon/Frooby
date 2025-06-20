@@ -426,7 +426,7 @@ nav.slide-out-menu div.menu-panels ul li .header__card .card__content a {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  column-gap: 1.6rem;
+  column-gap: 2.6rem;
 }
 
 .header__nav-item {

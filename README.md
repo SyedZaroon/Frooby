@@ -1,2 +1,0 @@
-# Frooby
-Ecomminds Project

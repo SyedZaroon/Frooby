@@ -52,7 +52,7 @@
                       {% render 'icon', icon_name: 'theme-chevron', class: 'icon' %}
                     </button>
                   {%- else -%}
-                    <a href="{{ link.url }}" class="h4" {% if link.current %}aria-current="page"{% endif %}>
+                    <a href="{{ link.url }}" class="" {% if link.current %}aria-current="page"{% endif %}>
                       {{ link.title | escape }}
                     </a>
                   {%- endif -%}
