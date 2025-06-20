@@ -96,6 +96,10 @@
           "settings": {
             "spacing_bottom": "1"
           }
+        },
+        "opinew-stars-plugin-product": {
+          "type": "shopify://apps/opinew-reviews/blocks/product-stars/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {}
         }
       },
       "block_order": [
@@ -109,7 +113,8 @@
         "e6d841d6-2f71-40b3-956a-912df13f9f6e",
         "1e939cd6-0955-4135-a9e5-c50faef01437",
         "7be6b89c-da83-4ff2-9b85-44fb28cbfa27",
-        "divider_MgiKBB"
+        "divider_MgiKBB",
+        "opinew-stars-plugin-product"
       ],
       "settings": {
         "product_media_layout": "product__media-layout--full",
