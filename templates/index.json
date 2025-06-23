@@ -14,6 +14,7 @@
       "blocks": {
         "8d591e0b-d408-44f1-8bd2-9b71f529aa90": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme": "scheme-6",
@@ -45,6 +46,7 @@
         },
         "slide_aQizGj": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--70-30",
             "color_scheme": "scheme-6",
@@ -76,6 +78,7 @@
         },
         "slide_BdeRpH": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--30-70",
             "color_scheme": "scheme-6",
@@ -104,12 +107,43 @@
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": false
           }
+        },
+        "slide_rqNgzB": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme": "scheme-1",
+            "header_menu_text_color": "#ffffff",
+            "heading": "",
+            "subheading": "",
+            "subheading_link": "",
+            "text": "",
+            "button_link_1": "/",
+            "button_link_1_type": "button",
+            "button_label_1": "",
+            "button_style_1": "button--filled",
+            "button_link_2": "/",
+            "button_label_2": "",
+            "button_style_2": "button--outlined",
+            "content_position": "end",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/banner1.png",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": true,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": true
+          }
         }
       },
       "block_order": [
         "8d591e0b-d408-44f1-8bd2-9b71f529aa90",
         "slide_aQizGj",
-        "slide_BdeRpH"
+        "slide_BdeRpH",
+        "slide_rqNgzB"
       ],
       "settings": {
         "enable_transparent_header": false,
