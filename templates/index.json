@@ -133,6 +133,7 @@
             "enable_media_overlay_desktop": true,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/mobile-banner1.png",
             "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": true
