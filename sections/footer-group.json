@@ -61,7 +61,7 @@
             "column_factor": 2,
             "row_factor": 1,
             "heading": "Business Info",
-            "text": "<p>Working Hours: Monday to Friday: 9.00am - 5.00pm GMT</p><p>Email: <a href=\"mailto:FROOBYUK@hotmail.com\">FROOBYUK@hotmail.com</a></p><p>Phone Number: <a href=\"tel:+447999005880\">+44 7999 005880</a></p><p>Address: Amber House, Crompton & Ward Street, OLDHAM, OL9 9ET</p>",
+            "text": "<p>📅 <strong>Working Hours</strong>: Monday to Friday: 9.00am - 5.00pm GMT<br/><br/>✉️ <strong>Email</strong>: <a href=\"mailto:froobyuk@hotmail.com\" title=\"mailto:froobyuk@hotmail.com\">froobyuk@hotmail.com</a><br/><br/>📞 <strong>Phone</strong>: +44 7999 005880<br/><br/>📍 <strong>Address</strong>: Amber House, Crompton & Ward Street, OLDHAM, OL9 9ET</p>",
             "content_position_vertical": "start",
             "content_alignment": "start",
             "content_alignment_for_mobile": "start"
