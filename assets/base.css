@@ -342,7 +342,7 @@ body:has(.shopify-section:first-child .header-is-transparent):not(:has(.section-
   }
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .small-up-hide {
     display: none !important;
   }

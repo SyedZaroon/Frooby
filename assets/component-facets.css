@@ -278,7 +278,7 @@ html.js .facets__drawer .drawer__content, html.no-js .facets__drawer .drawer__co
 .collection-facets__sorting {
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: end;
   justify-content: flex-start;
 }
 
