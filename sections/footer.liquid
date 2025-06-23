@@ -38,9 +38,13 @@
             assign block_content_alignment_class = block_content_alignment_class | append: ' align-' | append: block.settings.content_alignment | append: ' text-' | append: block.settings.content_alignment | append: ' align-' | append: block.settings.content_alignment_for_mobile | append: '--mobile text-' | append: block.settings.content_alignment_for_mobile | append: '--mobile'
           endif
         %}
-        <div class="section-footer__block col-span-{{ block.settings.column_factor }} block-{{ block.id }} {{ block_class }}" {{ block.shopify_attributes }}>
+        <div class="section-footer__block col-span-{{ block.settings.column_factor }} block-{{ block.id }} {{ block_class }}  " {{ block.shopify_attributes }}>
 
           {%- case block.type -%}
+
+            {%- when 'custom_block' -%}
+              {% render 'custom-block' %}
+
             {%- when 'spacer' -%}
               <div class="footer__spacer"></div>
             {%- when 'link_list' -%}
@@ -221,6 +225,8 @@
 
                 assign payment_type_list = payment_type_list | split: ','
               %}
+
+            
 
               <div class="section-footer__content footer__payment {{ block_content_alignment_class }}" {% unless block.settings.payment_icons_color %}style="filter: grayscale(100%);"{% endunless %}>
                 <span class="visually-hidden">{{- 'sections.footer.payment' | t -}}</span>
@@ -479,6 +485,30 @@
           ],
           "default": "start"
         }
+      ]
+    },
+    {
+      "type": "custom_block",
+      "name": "Custom Block",
+      "settings": [
+        {
+          "type": "range",
+          "id": "column_factor",
+          "label": "t:sections.global.settings.grid.blocks.settings.column_factor.label",
+          "min": 1,
+          "max": 6,
+          "step": 1,
+          "default": 1
+        },
+        {
+          "type": "range",
+          "id": "row_factor",
+          "label": "t:sections.global.settings.grid.blocks.settings.row_factor.label",
+          "min": 1,
+          "max": 6,
+          "step": 1,
+          "default": 1
+        },
       ]
     },
     {

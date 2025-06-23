@@ -4598,3 +4598,9 @@ back-to-top.hide {
     display:none;
   }
 }
+
+/* Accordin text */
+
+.accordion__button-text{
+  font-family: var(--font-button-family);
+}
