@@ -1230,7 +1230,6 @@ a.media.card-product__media {
     opacity: 0.7;
   }
 }
-
 .media img,
 .media > iframe,
 .media video {
@@ -4584,4 +4583,17 @@ back-to-top.hide {
   padding: 0px;
   margin: 0px;
   background-color: transparent;
+}
+
+@media screen and (max-width: 400px) {
+  .hero-banner .hero__inner .small-hide {
+    display: block !important;
+  }
+}
+
+
+@media screen and (min-width:500px) {
+  .small-up-hide{
+    display:none;
+  }
 }
