@@ -4579,3 +4579,9 @@ back-to-top.hide {
 .form__label{
   margin-block-end: calc(var(--product-block-spacing-unit) * 1);
 }
+
+.collection-grid__filter .accordion .accordion__body{
+  padding: 0px;
+  margin: 0px;
+  background-color: transparent;
+}
