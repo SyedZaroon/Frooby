@@ -3945,7 +3945,7 @@ html.js .accordion__body {
 
    background-color: white;
     padding: 15px;
-    margin: 15px;
+    margin: 15px 0px;
 }
 html.js .accordion__body.is-transitioning {
   overflow: hidden;
@@ -4585,12 +4585,13 @@ back-to-top.hide {
   background-color: transparent;
 }
 
+/* // Slider Seting custom css */
+
 @media screen and (max-width: 400px) {
   .hero-banner .hero__inner .small-hide {
     display: block !important;
   }
 }
-
 
 @media screen and (min-width:500px) {
   .small-up-hide{

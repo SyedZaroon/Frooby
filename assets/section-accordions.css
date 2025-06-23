@@ -21,8 +21,6 @@
   font-size: calc(var(--font-heading-scale) * 1.6rem);
 
   background-color: white;
-    padding: 15px;
-    margin: 15px;
 }
 
 .accordion__button span {
@@ -41,17 +39,18 @@
   /* border-block-end: 0.1rem solid rgba(var(--color-border), var(--alpha-border)); */
   /* background-color: white;
   padding:15px;
-  margin:10px;  */
+  margin:10px; 
 } 
+     */
 .accordion__body{
   background-color: white;
     padding: 15px;
-    margin: 15px;
+    margin: 15px 0px;
 }
 .accordion__button {
     background-color: white;
     padding: 15px;
-    margin: 15px;
+    margin-bottom: 15px;
 }
 
 .accordion__button:hover{
