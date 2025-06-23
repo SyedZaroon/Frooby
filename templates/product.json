@@ -194,7 +194,7 @@
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "layout": "layout-1",
+        "layout": "layout-2",
         "enable_slideshow_overflow": false,
         "heading": "You may also like",
         "heading_size": "h5",
