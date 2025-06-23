@@ -13,18 +13,26 @@ if (!customElements.get('card-product-slider')) {
         a11y: false,
         threshold: 3,
         spaceBetween: swiperOptions.spaceBetweenMobile || 2,
-        slidesPerView: swiperOptions.slidesPerViewMobile || 'auto',
+        slidesPerView: swiperOptions.slidesPerViewMobile || "auto",
         resistanceRatio: 0.72,
         breakpoints: {
-          750: {
+          320: {
+            slidesPerView: 1,
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
+          },
+          450: {
+            slidesPerView: 2,
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
+          },
+          550: {
             slidesPerView: 3,
-            spaceBetween: swiperOptions.spaceBetweenDesktop || 2
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
           },
           1100: {
-            slidesPerView: 4,
-            spaceBetween: swiperOptions.spaceBetweenDesktop || 2
-          }
-        }
+            slidesPerView: 6,
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
+          },
+        },
       };
       if (swiperOptions.navigation) {
         this.sliderOptions.navigation = {
