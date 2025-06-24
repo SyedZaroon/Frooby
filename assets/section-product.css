@@ -399,7 +399,7 @@ text-truncator:not(.disabled) .truncated-text {
   font-size: var(--font-size-static-xs);
   font-weight: var(--font-weight-medium);
   line-height: var(--line-height-static-sm);
-  letter-spacing: 0.1rem;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
   margin: 0;
   white-space: nowrap;
@@ -1343,7 +1343,7 @@ product-tabs {
   font-size: var(--font-size-static-sm);
   line-height: var(--line-height-static-sm);
   font-weight: var(--font-weight-medium);
-  letter-spacing: 0.1rem;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
 }
 

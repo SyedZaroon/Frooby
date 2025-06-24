@@ -36,7 +36,7 @@
   font-size: var(--font-size-static-sm);
   line-height: var(--line-height-static-sm);
   font-style: normal;
-  letter-spacing: 0.48px;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
 }
 

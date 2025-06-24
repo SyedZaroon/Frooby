@@ -744,7 +744,7 @@ product-modal {
   font-size: var(--font-size-static-xs);
   line-height: var(--line-height-static-sm);
   font-weight: var(--font-weight-medium);
-  letter-spacing: 0.1rem;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
 }
 
@@ -767,7 +767,7 @@ product-modal {
   font-size: var(--font-size-static-xs);
   line-height: var(--line-height-static-sm);
   font-weight: var(--font-weight-medium);
-  letter-spacing: 0.1rem;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
 }
 

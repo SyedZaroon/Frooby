@@ -531,7 +531,7 @@ blockquote {
 .caption {
   font-size: var(--font-size-static-md);
   line-height: var(--line-height-static-md);
-  letter-spacing: 0.04rem;
+  letter-spacing: var(--letter-spacing-small);
 }
 
 .caption--small {
@@ -1391,7 +1391,7 @@ deferred-media {
   font-size: calc(var(--font-button-scale) * 1.2rem);
   line-height: calc(1 + 0.0 / var(--font-button-scale));
   font-weight: var(--font-button-weight);
-  letter-spacing: var(--font-button-letter-spacing);
+  letter-spacing: var(--letter-spacing-small);
   text-transform: var(--button-text-transform);
   color: var(--color-button-text);
   text-decoration: none;
@@ -1688,7 +1688,7 @@ more-payment-options-link {
   margin-top: var(--spacing-3)!important;
   font-size: var(--font-size-static-xs)!important;
   line-height: var(--line-height-static-sm);
-  letter-spacing: var(--font-button-letter-spacing);
+  letter-spacing: var(--letter-spacing-small);
   text-decoration: none!important;
 }
 
@@ -2703,7 +2703,7 @@ fieldset.product__variant-options legend {
   width: 100%;
 
   font-size: var(--font-size-static-md);
-  letter-spacing: 0.2rem;
+  letter-spacing: var(--letter-spacing-small);
   text-transform: uppercase;
   color: rgb(var(--color-heading-text));
 }
@@ -2744,7 +2744,7 @@ fieldset.product__variant-options legend strong {
 
   font-size: var(--font-size-static-md);
   line-height: var(--line-height-static-xs);
-  letter-spacing: 0.1rem;
+letter-spacing: var(--letter-spacing-small);
   color: rgb(var(--color-foreground));
   text-transform: uppercase;
   cursor: pointer;
@@ -4620,3 +4620,4 @@ a[aria-label="Menu 2"],
 a[aria-label="Menu 3"] {
   display: none !important;
 }
+

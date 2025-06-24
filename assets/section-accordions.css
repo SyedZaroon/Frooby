@@ -15,7 +15,7 @@
   align-items: center;
   justify-content: space-between;
   transition: text-decoration-color var(--duration-default);
-  letter-spacing: var(--font-heading-letter-spacing);
+  letter-spacing: var(--letter-spacing-small);
   padding-block: 0.2rem;
       font-weight: 100;
   font-size: calc(var(--font-heading-scale) * 1.6rem);
