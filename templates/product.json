@@ -191,6 +191,28 @@
         "spacing_bottom": "2"
       }
     },
+    "1750758417e0bfc112": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_iRFT9G": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_iRFT9G"
+      ],
+      "settings": {
+        "section_layout": "normal",
+        "spacing_inner": "2",
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    },
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -237,6 +259,7 @@
   "order": [
     "main",
     "accordions_BkMjLk",
+    "1750758417e0bfc112",
     "recommendations",
     "opinew-reviews-product-page-code"
   ]
