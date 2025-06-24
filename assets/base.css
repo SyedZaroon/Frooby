@@ -4614,3 +4614,9 @@ p.product-card__title a{
 .swiper.swiper__content-grid.small-up-hide {
   display: none;
 }
+
+a[aria-label="Menu 1"],
+a[aria-label="Menu 2"],
+a[aria-label="Menu 3"] {
+  display: none !important;
+}
