@@ -414,12 +414,12 @@
           {{ product_ref.vendor | link_to_vendor }}
         </span>
       {%- endif -%}
-      <h3 class="product-card__title">
+      <p class="product-card__title">
         <a href="{{ product_link_with_variant }}" class="product-card__link" tabindex="{% if is_in_drawer == true %}-1{% else %}0{% endif %}" data-product-link title="{{ 'product.go_to_title' | t : title: product_ref.title }}">
           <span>{{ product_ref.title | default: product_title_placeholder }}</span>
         </a>
         {% render 'product-badges', product: product_ref %}
-      </h3>
+      </p>
       <span class="product-card__price">
         {%- render 'price', product: product_ref -%}
       </span>

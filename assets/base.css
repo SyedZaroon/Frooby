@@ -3729,7 +3729,7 @@ svg {
 .text--link {
   position: relative;
 
-  font-family: var(--font-heading-family);
+  font-family: var(--font-body-family);
   font-size: var(--font-size-static-sm);
   font-weight: var(--font-heading-weight);
   line-height: var(--line-height-static-sm);
@@ -4604,4 +4604,8 @@ back-to-top.hide {
 
 .accordion__button-text{
   font-family: var(--font-button-family);
+}
+
+p.product-card__title a{
+  text-decoration: none;
 }
