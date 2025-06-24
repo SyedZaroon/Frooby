@@ -4588,7 +4588,8 @@ back-to-top.hide {
 /* // Slider Seting custom css */
 
 @media screen and (max-width: 400px) {
-  .hero-banner .hero__inner .small-hide {
+  .hero-banner .hero__inner .small-hide,
+  .media.media--overlay.hero__media.small-hide {
     display: block !important;
   }
 }
