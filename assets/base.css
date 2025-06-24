@@ -4604,8 +4604,13 @@ back-to-top.hide {
 
 .accordion__button-text{
   font-family: var(--font-button-family);
+  font-size: var(--font-size-static-lg);
 }
 
 p.product-card__title a{
   text-decoration: none;
+}
+
+.swiper.swiper__content-grid.small-up-hide {
+  display: none;
 }
