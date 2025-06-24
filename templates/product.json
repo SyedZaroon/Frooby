@@ -194,15 +194,13 @@
     "1750758417e0bfc112": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_featured_carousel_iRFT9G": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
+        "judge_me_reviews_review_widget_CdzLQM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
-        "judge_me_reviews_featured_carousel_iRFT9G"
+        "judge_me_reviews_review_widget_CdzLQM"
       ],
       "settings": {
         "section_layout": "normal",
