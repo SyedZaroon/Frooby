@@ -169,6 +169,37 @@
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": true
           }
+        },
+        "slide_bzmq44": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--full",
+            "color_scheme": "scheme-1",
+            "header_menu_text_color": "#ffffff",
+            "heading": "",
+            "subheading": "",
+            "subheading_link": "",
+            "text": "",
+            "button_link_1": "/",
+            "button_link_1_type": "button",
+            "button_label_1": "",
+            "button_style_1": "button--filled",
+            "button_link_2": "/",
+            "button_label_2": "",
+            "button_style_2": "button--outlined",
+            "content_position": "end",
+            "content_alignment": "center",
+            "image": "shopify://shop_images/Froby_banner_home_tools_des.png",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": true,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/banner3mob.png",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": true
+          }
         }
       },
       "block_order": [
@@ -176,7 +207,8 @@
         "slide_aQizGj",
         "slide_BdeRpH",
         "slide_rqNgzB",
-        "slide_qwLK7T"
+        "slide_qwLK7T",
+        "slide_bzmq44"
       ],
       "settings": {
         "enable_transparent_header": false,
