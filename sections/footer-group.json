@@ -55,8 +55,16 @@
             "show_first_menu_on_mobile": false
           }
         },
+        "custom_block_JQDkjL": {
+          "type": "custom_block",
+          "settings": {
+            "column_factor": 2,
+            "row_factor": 1
+          }
+        },
         "richtext_M8YjmQ": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "column_factor": 2,
             "row_factor": 1,
@@ -85,6 +93,7 @@
         "brand_M9BKRn",
         "link_list_bMqdnL",
         "link_list_EPwkFW",
+        "custom_block_JQDkjL",
         "richtext_M8YjmQ",
         "newsletter_HRU3Dg"
       ],
