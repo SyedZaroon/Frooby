@@ -22,7 +22,7 @@
   endcomment
 %}
 
-<details class="accordion__section facets__accordion-section{% if opened_accordions %} is-active{% endif %}" id="Filters-accordion-section-{{- index -}}"{% if opened_accordions %} open{% endif %}>
+<details class="accordion__section facets__accordion-section{% if opened_accordions %} is-active{% endif %}" id="Filters-accordion-section-{{- index -}}"{% if opened_accordions %} open{% endif %} >
   <summary class="facets__accordion-btn h4 js-btn" id="Filters-accordion-button-{{- index -}}">
     {{- filter.label | escape -}}
 
