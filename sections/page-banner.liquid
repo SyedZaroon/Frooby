@@ -138,7 +138,7 @@
       {%- render 'breadcrumbs' -%}
     {%- endif -%}
     <div class="section-page-banner__content content">
-      <{{ heading_tag }} class="page-banner__title section__heading {{ section.settings.heading_size }}">
+      <{{ heading_tag }} class="page-banner__title section__heading h3">
         {{- section.settings.heading | default: page.title | default: page_title -}}
       </{{ heading_tag }}>
 
