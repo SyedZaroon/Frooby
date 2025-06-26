@@ -29,7 +29,7 @@ if (!customElements.get('card-product-slider')) {
             spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
           },
           1100: {
-            slidesPerView: 6,
+            slidesPerView: 5,
             spaceBetween: swiperOptions.spaceBetweenDesktop || 2,
           },
         },
