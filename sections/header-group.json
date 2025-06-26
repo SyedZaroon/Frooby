@@ -14,6 +14,10 @@
     "announcement_bar_DRkkM9": {
       "type": "announcement-bar",
       "blocks": {
+        "social_NH4BaN": {
+          "type": "social",
+          "settings": {}
+        },
         "text_slide_QTKcYJ": {
           "type": "text-slide",
           "settings": {
@@ -34,12 +38,18 @@
             "content": "<p>30 Days Return</p>",
             "icon": ""
           }
+        },
+        "trustpilot_YKQRDB": {
+          "type": "trustpilot",
+          "settings": {}
         }
       },
       "block_order": [
+        "social_NH4BaN",
         "text_slide_QTKcYJ",
         "text_slide_QywYmP",
-        "text_slide_a3wMYw"
+        "text_slide_a3wMYw",
+        "trustpilot_YKQRDB"
       ],
       "settings": {
         "text_block_behaviour": "slider",
