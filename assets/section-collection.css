@@ -299,3 +299,8 @@
     grid-template-columns: repeat(var(--products-per-row), 1fr);
   }
 }
+
+.collection {
+  padding-block-start: var(--spacing-8) !important;
+  padding-block-end: var(--spacing-8) !important;
+}
