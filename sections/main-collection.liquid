@@ -551,3 +551,17 @@
   ]
 }
 {% endschema %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const url = new URL(window.location.href);
+
+    const hasAvailability = url.searchParams.has("filter.v.availability");
+
+    if (!hasAvailability) {
+      url.searchParams.set("filter.v.availability", "1");
+      url.searchParams.set("sort_by", "best-selling");
+      window.location.replace(url.toString());
+    }
+  });
+</script>
