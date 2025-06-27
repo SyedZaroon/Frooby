@@ -552,7 +552,7 @@
 }
 {% endschema %}
 
-<script>
+{% comment %} <script>
   document.addEventListener("DOMContentLoaded", function () {
     const url = new URL(window.location.href);
 
@@ -564,4 +564,4 @@
       window.location.replace(url.toString());
     }
   });
-</script>
+</script> {% endcomment %}
