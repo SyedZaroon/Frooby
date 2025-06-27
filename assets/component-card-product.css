@@ -4,6 +4,12 @@
   display: flex;
   flex-direction: column;
   gap: var(--spacing-4);
+  overflow: hidden;
+  transition: all 0.5s ease-in-out;
+}
+
+.product-card:hover img {
+  transform: scale(1.2);
 }
 
 .product-card .product-card__content {
