@@ -34,11 +34,21 @@ announcement-bar-slider {
   min-height: 2rem;
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 425px) {
   .announcement-bar__wrapper {
-    /* flex-direction: column; */
     flex-flow: row wrap;
   }
+.social-icons,
+ .trustpilot-img {
+   display: none !important;
+ }
+}
+
+@media screen and (max-width: 749px) {
+  /* .announcement-bar__wrapper {
+    /* flex-direction: column; */
+    /* flex-flow: row wrap; */
+  /* } */
   .announcement-bar__wrapper > *:not(.announcement-bar__slider),
   .announcement-bar__wrapper > *:not(.announcement-bar__marquee) {
     flex: 1 1 auto;

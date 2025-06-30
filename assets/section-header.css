@@ -639,25 +639,19 @@ html.no-js .header__nav-dropdown {
 .header__nav-item.dropdown .header__nav-links-item>a::before {
   content: "";
   position: absolute;
-  width: 0%;
-  height: 1px;
-  background-color: black;
-  bottom: 0;
-  opacity: 0;
-  transition: all 0.3s ease-in-out;
-}
-
-.header__nav-item.dropdown .header__nav-links-item:hover > a::before {
-  content: "";
-  position: absolute;
   width: 100%;
-  opacity: 1;
   height: 1px;
+  transform: scaleX(0);
+  transform-origin: right;
   background-color: black;
   bottom: 0;
-  transition: all 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
+.header__nav-item.dropdown .header__nav-links-item:hover>a::before {
+  transform: scaleX(1);
+  transform-origin: left;
+}
 
 
 .header__nav-item.dropdown .header__nav-links-item:hover > a {
