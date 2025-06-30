@@ -228,27 +228,27 @@
         "collection_slide_NLzqWi": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "gym-equipment",
+            "heading": "Fitness",
+            "heading_size": "h6",
             "subheading": ""
           }
         },
         "collection_slide_KUc6UH": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "home-essentials",
+            "heading": "Home & Living",
+            "heading_size": "h6",
             "subheading": ""
           }
         },
         "collection_slide_ff8zQ8": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "tools",
+            "heading": "Tools",
+            "heading_size": "h6",
             "subheading": ""
           }
         },
