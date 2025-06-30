@@ -292,7 +292,7 @@
       "settings": {
         "layout": "layout-1",
         "heading": "Our collections",
-        "heading_size": "h3",
+        "heading_size": "h5",
         "subheading": "",
         "content_padding": "0",
         "button_label": "Explore all",
@@ -304,17 +304,17 @@
         "card_content_alignment": "start",
         "card_title_style": "card-single-text",
         "collection_product_count": "show",
-        "slides_per_view": 3,
+        "slides_per_view": 4,
         "slides_per_view_mobile": 1,
         "show_carousel_arrows": true,
         "slideshow_alignment_center": false,
         "enable_slideshow_overflow": false,
         "slideshow_border": "none",
-        "section_width": "max-w-page",
+        "section_width": "max-w-fluid",
         "color_scheme": "",
         "color_scheme_for_cards": "",
-        "spacing_top": "2",
-        "spacing_bottom": "2"
+        "spacing_top": "1",
+        "spacing_bottom": "1"
       }
     },
     "announcement_bar_PrVdXX": {
