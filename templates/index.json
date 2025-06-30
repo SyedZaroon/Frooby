@@ -273,9 +273,9 @@
         "collection_slide_HipUaP": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "garden-hose",
+            "heading": "Garden Hose",
+            "heading_size": "h6",
             "subheading": ""
           }
         }
