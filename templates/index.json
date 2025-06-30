@@ -528,17 +528,32 @@
           "type": "heading",
           "settings": {
             "heading": "GREAT PRICES, EVEN GREATER QUALITY !!!",
-            "heading_size": "h2"
+            "heading_size": "h5"
+          }
+        },
+        "buttons_XmwPEe": {
+          "type": "buttons",
+          "settings": {
+            "button_link_1": "shopify://collections/all",
+            "button_link_1_type": "button",
+            "button_label_1": "Shop Now",
+            "button_style_1": "button--outlined",
+            "color_scheme_first_button": "scheme-6",
+            "button_link_2": "/",
+            "button_label_2": "",
+            "button_style_2": "button--outlined",
+            "color_scheme_second_button": "scheme-1"
           }
         }
       },
       "block_order": [
-        "heading_U8BzAK"
+        "heading_U8BzAK",
+        "buttons_XmwPEe"
       ],
       "settings": {
         "enable_transparent_header": true,
         "media_position": "background",
-        "section_height": "third",
+        "section_height": "auto",
         "content_position": "center",
         "content_alignment": "center",
         "video_external": "",
