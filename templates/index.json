@@ -264,9 +264,9 @@
         "collection_slide_pPx4Xa": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "ladders",
+            "heading": "Ladders",
+            "heading_size": "h6",
             "subheading": ""
           }
         },
