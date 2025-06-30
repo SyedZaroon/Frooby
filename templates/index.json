@@ -272,8 +272,8 @@
         "tab_button_style": "button--filled",
         "section_width": "max-w-page",
         "color_scheme": "scheme-1",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
+        "spacing_top": "2",
+        "spacing_bottom": "2"
       }
     },
     "featured_collections_eVqtym": {
