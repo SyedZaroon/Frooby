@@ -256,7 +256,7 @@
       "block_order": [
         "collection_NgfPGn"
       ],
-      "name": "FITNESS",
+      "name": "New Arrivals",
       "settings": {
         "layout": "layout-1",
         "heading": "New Arrivals",
@@ -274,6 +274,104 @@
         "color_scheme": "scheme-1",
         "spacing_top": "2",
         "spacing_bottom": "2"
+      }
+    },
+    "multitile_DAfLHx": {
+      "type": "multitile",
+      "blocks": {
+        "tile_Xtw9dC": {
+          "type": "tile",
+          "settings": {
+            "show_on": "both",
+            "column_factor": 3,
+            "row_factor": 6,
+            "color_scheme": "scheme-8",
+            "gradient_background_color": "",
+            "tile_aspect_ratio": "1/1",
+            "content_position_vertical": "justify-end",
+            "content_alignment": "align-end text-end",
+            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
+            "media_position": "background",
+            "heading": "Get Fit at Home with Powerful Gym Essentials",
+            "heading_size": "h6",
+            "text": "",
+            "button_label": "Explore",
+            "button_link": "shopify://collections/gym-equipment",
+            "button_style": "button--filled",
+            "image": "shopify://shop_images/Artboard_1.png",
+            "show_controls_on_video": false,
+            "show_controls_on_video_mobile": false,
+            "spacing_inner": "2"
+          }
+        },
+        "tile_7kqFRt": {
+          "type": "tile",
+          "settings": {
+            "show_on": "both",
+            "column_factor": 3,
+            "row_factor": 6,
+            "color_scheme": "",
+            "gradient_background_color": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)",
+            "tile_aspect_ratio": "media",
+            "content_position_vertical": "justify-end",
+            "content_alignment": "align-end text-end",
+            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
+            "media_position": "background",
+            "heading": "Smart Home Tools That Make Life Simpler",
+            "heading_size": "h6",
+            "text": "",
+            "button_label": "Explore",
+            "button_link": "shopify://collections/home-essentials",
+            "button_style": "button--filled",
+            "image": "shopify://shop_images/Artboard_1_copy.png",
+            "show_controls_on_video": false,
+            "show_controls_on_video_mobile": false,
+            "spacing_inner": "2"
+          }
+        },
+        "tile_6D9ER4": {
+          "type": "tile",
+          "disabled": true,
+          "settings": {
+            "show_on": "both",
+            "column_factor": 6,
+            "row_factor": 6,
+            "color_scheme": "",
+            "gradient_background_color": "",
+            "tile_aspect_ratio": "4/1",
+            "content_position_vertical": "justify-center",
+            "content_alignment": "align-center text-center",
+            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
+            "media_position": "background",
+            "heading": "Tough Tools for Everyday Wins – Shop Now!",
+            "heading_size": "h6",
+            "text": "",
+            "button_label": "Explore",
+            "button_link": "shopify://collections/tools",
+            "button_style": "button--filled",
+            "image": "shopify://shop_images/tools.png",
+            "show_controls_on_video": false,
+            "show_controls_on_video_mobile": false,
+            "spacing_inner": "1"
+          }
+        }
+      },
+      "block_order": [
+        "tile_Xtw9dC",
+        "tile_7kqFRt",
+        "tile_6D9ER4"
+      ],
+      "name": "t:sections.multitile.name",
+      "settings": {
+        "block_order_mobile": false,
+        "heading": "",
+        "heading_size": "h3",
+        "heading_alignment": "start",
+        "spacing_tile": "compact",
+        "color_scheme": "",
+        "section_width": "max-w-full",
+        "spacing_top": "0",
+        "spacing_bottom": "0"
       }
     },
     "featured_collections_eVqtym": {
@@ -348,6 +446,7 @@
         "collection_slide_pPx4Xa",
         "collection_slide_HipUaP"
       ],
+      "disabled": true,
       "name": "Our Collection",
       "settings": {
         "layout": "layout-1",
@@ -399,6 +498,7 @@
         "text_slide_3aXebp",
         "text_slide_BXKqaV"
       ],
+      "disabled": true,
       "settings": {
         "text_block_behaviour": "marquee",
         "slider_autoplay_interval": 9,
@@ -444,6 +544,7 @@
       "block_order": [
         "collection_zGEhTz"
       ],
+      "disabled": true,
       "name": "TOOLS",
       "settings": {
         "layout": "layout-1",
@@ -501,6 +602,7 @@
       "block_order": [
         "collection_LHadaQ"
       ],
+      "disabled": true,
       "name": "HOME & LIVING",
       "settings": {
         "layout": "layout-1",
@@ -550,6 +652,7 @@
         "heading_U8BzAK",
         "buttons_XmwPEe"
       ],
+      "disabled": true,
       "settings": {
         "enable_transparent_header": true,
         "media_position": "background",
@@ -626,15 +729,70 @@
         "rating_icon": "star",
         "layout": "carousel-none-media",
         "slider_autoplay": 3,
-        "image": "shopify://shop_images/36-7_Workout_Gym_Bench_1-Photoroom_1.png",
         "image_position": "image-start",
         "image_aspect_ratio": "1 / 1",
         "media_show_on": "desktop",
         "spacing_inner": "1",
-        "section_width": "max-w-fluid",
+        "section_width": "max-w-full",
         "color_scheme": "scheme-5",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    },
+    "blog_articles_eRYYrb": {
+      "type": "blog-articles",
+      "blocks": {
+        "article_J7LD36": {
+          "type": "article",
+          "settings": {
+            "article": "news/top-5-home-living-accessories-that-add-style-function"
+          }
+        },
+        "article_dQzVwx": {
+          "type": "article",
+          "settings": {
+            "article": "news/get-fit-at-home-6-essential-fitness-tools-you-need"
+          }
+        },
+        "article_dLyG6c": {
+          "type": "article",
+          "settings": {
+            "article": "news/5-must-have-tools-for-every-diy-enthusiast"
+          }
+        },
+        "article_Qgcgj6": {
+          "type": "article",
+          "settings": {
+            "article": "news/get-fit-anywhere-with-an-adjustable-foldable-gym-bench"
+          }
+        }
+      },
+      "block_order": [
+        "article_J7LD36",
+        "article_dQzVwx",
+        "article_dLyG6c",
+        "article_Qgcgj6"
+      ],
+      "name": "t:sections.blog-articles.name",
+      "settings": {
+        "heading": "Blog",
+        "heading_size": "h5",
+        "blog": "news",
+        "button_text": "All Blog",
+        "layout": "layout-2",
+        "card_media_aspect_ratio": "3/2",
+        "show_excerpt": true,
+        "show_date": false,
+        "show_author": false,
+        "show_read_more": true,
+        "content_alignment": "text-center",
+        "button_style": "button--text",
+        "spacing_inner": "0",
+        "section_width": "max-w-page",
+        "color_scheme": "scheme-1",
+        "spacing_grid": "2",
+        "spacing_top": "4",
+        "spacing_bottom": "4"
       }
     },
     "social_media_highlights_fVaa73": {
@@ -645,7 +803,7 @@
           "settings": {
             "image": "shopify://shop_images/cross-fit-rope-workout.jpg",
             "image_url": "",
-            "card_aspect_ratio": "1/1"
+            "card_aspect_ratio": "same_as_section"
           }
         },
         "image_m9bXnL": {
@@ -653,7 +811,7 @@
           "settings": {
             "image": "shopify://shop_images/abs-workout-tire.jpg",
             "image_url": "",
-            "card_aspect_ratio": "1/1"
+            "card_aspect_ratio": "same_as_section"
           }
         },
         "image_34bPnK": {
@@ -661,7 +819,7 @@
           "settings": {
             "image": "shopify://shop_images/arm-back-muscles.jpg",
             "image_url": "",
-            "card_aspect_ratio": "1/1"
+            "card_aspect_ratio": "same_as_section"
           }
         },
         "image_Lcx9JC": {
@@ -669,7 +827,7 @@
           "settings": {
             "image": "shopify://shop_images/heavy-lifting-man.jpg",
             "image_url": "",
-            "card_aspect_ratio": "1/1"
+            "card_aspect_ratio": "same_as_section"
           }
         }
       },
@@ -681,20 +839,20 @@
       ],
       "settings": {
         "layout": "default",
-        "remove_desktop_spacing": true,
+        "remove_desktop_spacing": false,
         "heading": "Join the <em>family</em>",
-        "heading_size": "h3",
+        "heading_size": "h4",
         "subheading": "",
         "button_label": "Follow us",
         "button_link": "https://www.instagram.com/froobyuk?igsh=bTY0b2Jqazd0bnZj",
         "button_style": "button--outlined",
         "button_icon": "brand-instagram",
         "content_card_color_scheme": "scheme-6",
-        "media_aspect_ratio": "1/1",
+        "media_aspect_ratio": "2/3",
         "autoplay_speed": 5,
         "section_width": "max-w-full",
         "color_scheme": "scheme-1",
-        "spacing_top": "1",
+        "spacing_top": "0",
         "spacing_bottom": "0"
       }
     },
@@ -755,12 +913,14 @@
   "order": [
     "1658995208ad05f95f",
     "featured_products_pMFTtf",
+    "multitile_DAfLHx",
     "featured_collections_eVqtym",
     "announcement_bar_PrVdXX",
     "featured_products_3Bw4jT",
     "featured_products_NQdanV",
     "full_width_banner_BAzegt",
     "testimonials_CMyt3F",
+    "blog_articles_eRYYrb",
     "social_media_highlights_fVaa73",
     "main_list_collections_WLTWRa"
   ]

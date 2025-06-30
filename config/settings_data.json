@@ -150,7 +150,7 @@
     "color_schemes": {
       "scheme-1": {
         "settings": {
-          "background": "#f8f8f8",
+          "background": "#FFFFFF",
           "background_gradient": "",
           "primary_text": "#151515",
           "secondary_text": "#65706e",
@@ -230,7 +230,7 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#fafafa",
           "background_gradient": "",
           "primary_text": "#000000",
           "secondary_text": "#65706e",

@@ -94,36 +94,6 @@
             "spacing_bottom": "2"
           }
         },
-        "wishlist_plus_wishlist_pdp_button_HWfemF": {
-          "type": "shopify://apps/wishlist-plus/blocks/wishlist-pdp-button/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
-          "settings": {
-            "swym_atw_button_icon": "heart",
-            "swym_atw_icon_thickness": 1.7,
-            "swym_atw_display_btn_text": true,
-            "swym_button_position": "default",
-            "swym_atw_button_vertical_offset": -15,
-            "swym_atw_full_width": true,
-            "swym_atw_button_alignment": "center",
-            "swym_add_to_wishlist_color": "#000000",
-            "swym_added_to_wishlist_color": "#222222",
-            "swym_button_text_color": "#ffffff",
-            "swym_atw_border_color": "#000000",
-            "swym_atw_border_thickness": 0,
-            "swym_atw_button_border_radius": 0,
-            "swym_enable_hover_customization": false,
-            "swym_hover_add_to_wishlist_color": "#000000",
-            "swym_hover_added_to_wishlist_color": "#222222",
-            "swym_hover_button_text_color": "#ffffff",
-            "swym_hover_atw_border_color": "#000000",
-            "swym_hover_atw_border_thickness": 0,
-            "swym_hover_atw_button_border_radius": 0,
-            "swym_custom_css": ""
-          }
-        },
-        "wishlist_plus_wishlist_page_section_M8nD7q": {
-          "type": "shopify://apps/wishlist-plus/blocks/wishlist-page-section/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
-          "settings": {}
-        },
         "8604a6ff-ad0b-44dd-8068-1de4e062f8e8": {
           "type": "buy_buttons",
           "settings": {
@@ -188,8 +158,6 @@
         "divider_BzKyKe",
         "8effeb43-55b7-4ec4-ab9b-68bcd89b865b",
         "divider_HGwyhB",
-        "wishlist_plus_wishlist_pdp_button_HWfemF",
-        "wishlist_plus_wishlist_page_section_M8nD7q",
         "8604a6ff-ad0b-44dd-8068-1de4e062f8e8",
         "1e939cd6-0955-4135-a9e5-c50faef01437",
         "divider_zJYb7a",
