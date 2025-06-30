@@ -229,6 +229,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "gym-equipment",
+            "image": "shopify://shop_images/1_794be0b2-aabe-49da-bfb6-81b547c8b58f.png",
             "heading": "Fitness",
             "heading_size": "h6",
             "subheading": ""
@@ -238,6 +239,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "home-essentials",
+            "image": "shopify://shop_images/2_c23caa56-e94f-43fc-9ed2-e50b90b96797.png",
             "heading": "Home & Living",
             "heading_size": "h6",
             "subheading": ""
@@ -247,6 +249,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "tools",
+            "image": "shopify://shop_images/3_d6494d10-c88c-4956-9510-10a735dcb0de.png",
             "heading": "Tools",
             "heading_size": "h6",
             "subheading": ""
@@ -256,6 +259,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "dumbbells",
+            "image": "shopify://shop_images/4_4913542e-8422-4974-b559-71ed7f4274cf.png",
             "heading": "Dumbbells",
             "heading_size": "h6",
             "subheading": ""
@@ -265,6 +269,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "ladders",
+            "image": "shopify://shop_images/5_1710c73e-1c7e-4c2e-a206-735c8d327250.png",
             "heading": "Ladders",
             "heading_size": "h6",
             "subheading": ""
@@ -274,6 +279,7 @@
           "type": "collection-slide",
           "settings": {
             "collection": "garden-hose",
+            "image": "shopify://shop_images/6_a4146160-1ceb-401d-a0c0-7602b144f496.png",
             "heading": "Garden Hose",
             "heading_size": "h6",
             "subheading": ""
