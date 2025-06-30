@@ -294,7 +294,7 @@
         "collection_slide_pPx4Xa",
         "collection_slide_HipUaP"
       ],
-      "name": "t:sections.featured-collections.name",
+      "name": "Our Collection",
       "settings": {
         "layout": "layout-1",
         "heading": "Our collections",
@@ -387,6 +387,7 @@
       "block_order": [
         "collection_NgfPGn"
       ],
+      "name": "FITNESS",
       "settings": {
         "layout": "layout-1",
         "heading": "FITNESS",
@@ -443,6 +444,7 @@
       "block_order": [
         "collection_zGEhTz"
       ],
+      "name": "TOOLS",
       "settings": {
         "layout": "layout-1",
         "heading": "TOOLS",
@@ -499,6 +501,7 @@
       "block_order": [
         "collection_LHadaQ"
       ],
+      "name": "HOME & LIVING",
       "settings": {
         "layout": "layout-1",
         "heading": "HOME & LIVING",
