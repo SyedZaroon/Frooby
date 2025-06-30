@@ -621,20 +621,20 @@
       ],
       "settings": {
         "heading": "Testimonials",
-        "heading_size": "h2",
+        "heading_size": "h5",
         "subheading": "",
         "rating_icon": "star",
-        "layout": "horizontal-w-media",
+        "layout": "carousel-none-media",
         "slider_autoplay": 3,
         "image": "shopify://shop_images/36-7_Workout_Gym_Bench_1-Photoroom_1.png",
         "image_position": "image-start",
         "image_aspect_ratio": "1 / 1",
         "media_show_on": "desktop",
-        "spacing_inner": "0",
+        "spacing_inner": "1",
         "section_width": "max-w-fluid",
         "color_scheme": "scheme-5",
         "spacing_top": "0",
-        "spacing_bottom": "0"
+        "spacing_bottom": "1"
       }
     },
     "social_media_highlights_fVaa73": {
