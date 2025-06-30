@@ -255,9 +255,9 @@
         "collection_slide_af9aVF": {
           "type": "collection-slide",
           "settings": {
-            "collection": "",
-            "heading": "",
-            "heading_size": "h4",
+            "collection": "dumbbells",
+            "heading": "Dumbbells",
+            "heading_size": "h6",
             "subheading": ""
           }
         },
