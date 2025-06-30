@@ -390,7 +390,7 @@
       "settings": {
         "layout": "layout-1",
         "heading": "FITNESS",
-        "heading_size": "h2",
+        "heading_size": "h5",
         "subheading": "",
         "button_label": "View all",
         "button_link": "shopify://collections/gym-equipment",
@@ -403,7 +403,7 @@
         "section_width": "max-w-page",
         "color_scheme": "scheme-1",
         "spacing_top": "1",
-        "spacing_bottom": "0"
+        "spacing_bottom": "1"
       }
     },
     "featured_products_3Bw4jT": {
@@ -446,7 +446,7 @@
       "settings": {
         "layout": "layout-1",
         "heading": "TOOLS",
-        "heading_size": "h2",
+        "heading_size": "h5",
         "subheading": "",
         "button_label": "View all",
         "button_link": "shopify://collections/tools",
@@ -459,7 +459,7 @@
         "section_width": "max-w-page",
         "color_scheme": "",
         "spacing_top": "1",
-        "spacing_bottom": "0"
+        "spacing_bottom": "1"
       }
     },
     "featured_products_NQdanV": {
@@ -502,7 +502,7 @@
       "settings": {
         "layout": "layout-1",
         "heading": "HOME & LIVING",
-        "heading_size": "h2",
+        "heading_size": "h5",
         "subheading": "",
         "button_label": "View all",
         "button_link": "shopify://collections/tools",
@@ -515,7 +515,7 @@
         "section_width": "max-w-page",
         "color_scheme": "",
         "spacing_top": "1",
-        "spacing_bottom": "0"
+        "spacing_bottom": "1"
       }
     },
     "full_width_banner_BAzegt": {
