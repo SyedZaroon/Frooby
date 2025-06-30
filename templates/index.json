@@ -681,7 +681,7 @@
       ],
       "settings": {
         "layout": "default",
-        "remove_desktop_spacing": false,
+        "remove_desktop_spacing": true,
         "heading": "Join the <em>family</em>",
         "heading_size": "h3",
         "subheading": "",
