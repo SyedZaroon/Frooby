@@ -222,6 +222,60 @@
         "floating_bar": false
       }
     },
+    "featured_products_pMFTtf": {
+      "type": "featured-products",
+      "blocks": {
+        "collection_NgfPGn": {
+          "type": "collection",
+          "settings": {
+            "title": "Just arrived",
+            "collection": "",
+            "products": [
+              "30kg-dumbbells-barbell-set-with-connecting-rod-adjustable-dumbbell-home-gym-new",
+              "40kg-adjustable-dumbbell-5kg-to-40kg-15-in-1-fitness-exercise-quick-dial-single",
+              "foldable-dumbbell-bench-weight-training-workout-gym-7-incline-adjustable-uk-36-7",
+              "6-tier-dumbbell-rack-storage-stand-tree-hex-vertical-weight-wide-home-gym-45-4",
+              "3-tier-dumbbell-rack",
+              "adjustable-dumbbell-24kg-home-gym-15-in-1-quick-dial-smart-exercise-fitness-hand",
+              "gym-fitness-bar-chin-pull-up-strength-situp-dips-exercise-workout-door-bars-36-2",
+              "hex-dumbbells-set-pair-ergo-iron-hand-weights-rubber-encased-hexagonal-gym-dumbell",
+              "mini-exercise-bike-portable-pedal-exerciser-arm-leg-cycle-indoor-gym-fitness-uk"
+            ],
+            "vendor": "",
+            "collection_of_products": "",
+            "show_unavailable_products": false,
+            "card_text_heading": "",
+            "card_text_button_label": "",
+            "card_text_button_style": "button--filled",
+            "card_text_button_link": "",
+            "content_position": "center",
+            "content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_NgfPGn"
+      ],
+      "name": "FITNESS",
+      "settings": {
+        "layout": "layout-1",
+        "heading": "New Arrivals",
+        "heading_size": "h5",
+        "subheading": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "button--filled",
+        "max_products": 12,
+        "enable_slideshow_overflow": true,
+        "show_navigation_arrows": true,
+        "slideshow_autoplay_interval": 10,
+        "tab_button_style": "button--filled",
+        "section_width": "max-w-page",
+        "color_scheme": "scheme-1",
+        "spacing_top": "1",
+        "spacing_bottom": "1"
+      }
+    },
     "featured_collections_eVqtym": {
       "type": "featured-collections",
       "blocks": {
@@ -351,60 +405,6 @@
         "font_weight": "700",
         "section_width": "max-w-full",
         "color_scheme": "scheme-3"
-      }
-    },
-    "featured_products_pMFTtf": {
-      "type": "featured-products",
-      "blocks": {
-        "collection_NgfPGn": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": "",
-            "products": [
-              "30kg-dumbbells-barbell-set-with-connecting-rod-adjustable-dumbbell-home-gym-new",
-              "40kg-adjustable-dumbbell-5kg-to-40kg-15-in-1-fitness-exercise-quick-dial-single",
-              "foldable-dumbbell-bench-weight-training-workout-gym-7-incline-adjustable-uk-36-7",
-              "6-tier-dumbbell-rack-storage-stand-tree-hex-vertical-weight-wide-home-gym-45-4",
-              "3-tier-dumbbell-rack",
-              "adjustable-dumbbell-24kg-home-gym-15-in-1-quick-dial-smart-exercise-fitness-hand",
-              "gym-fitness-bar-chin-pull-up-strength-situp-dips-exercise-workout-door-bars-36-2",
-              "hex-dumbbells-set-pair-ergo-iron-hand-weights-rubber-encased-hexagonal-gym-dumbell",
-              "mini-exercise-bike-portable-pedal-exerciser-arm-leg-cycle-indoor-gym-fitness-uk"
-            ],
-            "vendor": "",
-            "collection_of_products": "",
-            "show_unavailable_products": false,
-            "card_text_heading": "",
-            "card_text_button_label": "",
-            "card_text_button_style": "button--filled",
-            "card_text_button_link": "",
-            "content_position": "center",
-            "content_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_NgfPGn"
-      ],
-      "name": "FITNESS",
-      "settings": {
-        "layout": "layout-1",
-        "heading": "FITNESS",
-        "heading_size": "h5",
-        "subheading": "",
-        "button_label": "View all",
-        "button_link": "shopify://collections/gym-equipment",
-        "button_style": "button--filled",
-        "max_products": 12,
-        "enable_slideshow_overflow": true,
-        "show_navigation_arrows": true,
-        "slideshow_autoplay_interval": 10,
-        "tab_button_style": "button--filled",
-        "section_width": "max-w-page",
-        "color_scheme": "scheme-1",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
       }
     },
     "featured_products_3Bw4jT": {
@@ -754,9 +754,9 @@
   },
   "order": [
     "1658995208ad05f95f",
+    "featured_products_pMFTtf",
     "featured_collections_eVqtym",
     "announcement_bar_PrVdXX",
-    "featured_products_pMFTtf",
     "featured_products_3Bw4jT",
     "featured_products_NQdanV",
     "full_width_banner_BAzegt",
