@@ -4625,6 +4625,11 @@ a[aria-label="Menu 3"] {
   padding: 40px 0px !important;
 }
 
+.footer__links-mobile-item-dropdown.accordion__body{
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
 
 
 @media screen and (max-width: 749px) {
