@@ -48,7 +48,7 @@
       ],
       "settings": {
         "enable_transparent_header": false,
-        "slider_height": 60,
+        "slider_height": 70,
         "slideshow_autoplay_interval": 5,
         "show_slideshow_navigation": false,
         "slideshow_navigation_position": "hero__swiper-buttons--sides",
