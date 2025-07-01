@@ -299,7 +299,9 @@
             "button_link": "shopify://collections/gym-equipment",
             "button_style": "button--filled",
             "image": "shopify://shop_images/Artboard_1.png",
+            "video_external": "",
             "show_controls_on_video": false,
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
@@ -324,7 +326,9 @@
             "button_link": "shopify://collections/home-essentials",
             "button_style": "button--filled",
             "image": "shopify://shop_images/Artboard_1_copy.png",
+            "video_external": "",
             "show_controls_on_video": false,
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
@@ -350,7 +354,9 @@
             "button_link": "shopify://collections/tools",
             "button_style": "button--filled",
             "image": "shopify://shop_images/tools.png",
+            "video_external": "",
             "show_controls_on_video": false,
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "1"
           }
@@ -829,13 +835,22 @@
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
+        },
+        "image_6Y8QKx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_4913542e-8422-4974-b559-71ed7f4274cf.png",
+            "image_url": "",
+            "card_aspect_ratio": "same_as_section"
+          }
         }
       },
       "block_order": [
         "image_Y3B3TH",
         "image_m9bXnL",
         "image_34bPnK",
-        "image_Lcx9JC"
+        "image_Lcx9JC",
+        "image_6Y8QKx"
       ],
       "settings": {
         "layout": "default",
