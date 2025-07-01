@@ -92,12 +92,12 @@
                 {% for child_link in link.links %}
                   <li class="menu-link-group">
                     {%- if child_link.links.size > 0 -%}
-                      <button type="button" class="menu-link h4" data-ref="{{ link_handle | append: '-' | append: child_link.title | handle }}">
+                      <button type="button" class="menu-link" data-ref="{{ link_handle | append: '-' | append: child_link.title | handle }}">
                         {{ child_link.title }}
                         {% render 'icon', icon_name: 'theme-chevron', class: 'icon' %}
                       </button>
                     {%- else -%}
-                      <a href="{{ child_link.url }}" class="h4" {% if child_link.current %}aria-current="page"{% endif %}>
+                      <a href="{{ child_link.url }}" class="" {% if child_link.current %}aria-current="page"{% endif %}>
                         {{ child_link.title | escape }}
                       </a>
                     {%- endif -%}
@@ -173,7 +173,7 @@
                 <ul>
                   {% for grand_child_link in child_link.links %}
                     <li>
-                      <a href="{{ grand_child_link.url }}" class="h4" {% if grand_child_link.current %}aria-current="page"{% endif %}>
+                      <a href="{{ grand_child_link.url }}" class="" {% if grand_child_link.current %}aria-current="page"{% endif %}>
                         {{ grand_child_link.title | escape }}
                       </a>
                     </li>
