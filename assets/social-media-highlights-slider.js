@@ -14,15 +14,15 @@ if (!customElements.get("social-media-highlights-slider")) {
 
       this.sliderOptions = {
         slidesPerView: 1,
-        spaceBetween: swiperOptions.spaceBetweenMobile || 2,
+        spaceBetween: swiperOptions.spaceBetweenMobile || 0,
         breakpoints: {
           750: {
             slidesPerView: swiperOptions.slidesPerViewDesktop || 3,
-            spaceBetween: swiperOptions.spaceBetweenDesktop || 2
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 0
           },
           1100: {
             slidesPerView: swiperOptions.slidesPerViewDesktop || 4,
-            spaceBetween: swiperOptions.spaceBetweenDesktop || 2
+            spaceBetween: swiperOptions.spaceBetweenDesktop || 0
           }
         },
         on: {

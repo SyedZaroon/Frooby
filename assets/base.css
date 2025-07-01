@@ -4627,7 +4627,8 @@ a[aria-label="Menu 3"] {
 
 
 
-.section--social-media-highlights .swiper-slide {
-  margin-right: 0px !important;
-  width: 100%;
+@media screen and (max-width: 749px) {
+  .accordion.footer__accordion.small-up-hide {
+    display: block !important;
+  }
 }

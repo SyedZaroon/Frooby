@@ -43,7 +43,7 @@
 
       <social-media-highlights-slider
         data-swiper-layout="{{- section.settings.layout -}}"
-        data-swiper-options='{"autoplaySpeed": {{ section.settings.autoplay_speed | times: 1000 }}, "slidesPerViewDesktop": {{ slides_per_view_desktop | times: 1 }}, "spaceBetweenDesktop": {{ settings.spacing_desktop | times: 10 | round: 0 }}, "spaceBetweenMobile": {{ settings.spacing_mobile | times: 10 | round: 0 }}}'
+        data-swiper-options='{"autoplaySpeed": {{ section.settings.autoplay_speed | times: 1000 }}, "slidesPerViewDesktop": {{ slides_per_view_desktop | times: 1 }}, "spaceBetweenDesktop": {{ settings.spacing_desktop | times: 0 | round: 0 }}, "spaceBetweenMobile": {{ settings.spacing_mobile | times: 0 | round: 0 }}}'
       >
         <div class="swiper swiper-smh" style="opacity:0">
           <div class="swiper-wrapper">
