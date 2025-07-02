@@ -95,8 +95,9 @@
               "slidesPerView": 1.15,
               "rewind": true,
               "followFinger": false,
-              "spaceBetweenMobile": {{ slideshow_spacing_mobile }},
-              "spaceBetweenDesktop": {{ 40 }},
+               "spaceBetweenDesktop": {{ 40 }},
+              "spaceBetweenMobile": {{ 40 }},
+              
               {%- if slideshow_autoplay > 0 -%}
               "autoplay": {
                 "delay": {{ slideshow_autoplay | times: 1000 }}
