@@ -4637,3 +4637,8 @@ a[aria-label="Menu 3"] {
     display: block !important;
   }
 }
+
+.hero__media img{
+  height: auto;
+  max-width: 100%;
+}
