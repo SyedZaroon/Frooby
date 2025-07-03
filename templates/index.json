@@ -46,7 +46,7 @@
           "type": "slide",
           "settings": {
             "banner_layout": "hero-banner--full",
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-6",
             "header_menu_text_color": "#ffffff",
             "heading": "",
             "subheading": "",
@@ -76,7 +76,7 @@
           "type": "slide",
           "settings": {
             "banner_layout": "hero-banner--full",
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-6",
             "header_menu_text_color": "#ffffff",
             "heading": "",
             "subheading": "",
