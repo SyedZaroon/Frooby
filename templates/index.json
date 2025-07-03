@@ -212,7 +212,7 @@
             "row_factor": 6,
             "color_scheme": "",
             "gradient_background_color": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)",
-            "tile_aspect_ratio": "media",
+            "tile_aspect_ratio": "1/1",
             "content_position_vertical": "justify-end",
             "content_alignment": "align-end text-end",
             "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
@@ -234,7 +234,7 @@
         "tile_6D9ER4": {
           "type": "tile",
           "settings": {
-            "show_on": "both",
+            "show_on": "desktop",
             "column_factor": 6,
             "row_factor": 6,
             "color_scheme": "scheme-8",
@@ -263,6 +263,51 @@
         "tile_Xtw9dC",
         "tile_7kqFRt",
         "tile_6D9ER4"
+      ],
+      "name": "t:sections.multitile.name",
+      "settings": {
+        "block_order_mobile": false,
+        "heading": "",
+        "heading_size": "h3",
+        "heading_alignment": "start",
+        "spacing_tile": "compact",
+        "color_scheme": "",
+        "section_width": "max-w-full",
+        "spacing_top": "0",
+        "spacing_bottom": "0"
+      }
+    },
+    "multitile_bKnmN3": {
+      "type": "multitile",
+      "blocks": {
+        "tile_haR6kG": {
+          "type": "tile",
+          "settings": {
+            "show_on": "mobile",
+            "column_factor": 3,
+            "row_factor": 6,
+            "color_scheme": "scheme-8",
+            "gradient_background_color": "",
+            "tile_aspect_ratio": "1/1",
+            "content_position_vertical": "justify-end",
+            "content_alignment": "align-end text-end",
+            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
+            "media_position": "background",
+            "heading": "Smart Home Tools That Make Life Simpler",
+            "heading_size": "h6",
+            "text": "",
+            "button_label": "Explore",
+            "button_link": "shopify://collections/tools",
+            "button_style": "button--filled",
+            "image": "shopify://shop_images/Artboard_1_copy_2_f3b8c270-0d5c-43b3-9720-13cd35a6255a.png",
+            "show_controls_on_video": false,
+            "show_controls_on_video_mobile": false,
+            "spacing_inner": "2"
+          }
+        }
+      },
+      "block_order": [
+        "tile_haR6kG"
       ],
       "name": "t:sections.multitile.name",
       "settings": {
@@ -826,6 +871,7 @@
     "1658995208ad05f95f",
     "featured_products_pMFTtf",
     "multitile_DAfLHx",
+    "multitile_bKnmN3",
     "featured_collections_eVqtym",
     "announcement_bar_PrVdXX",
     "featured_products_3Bw4jT",
