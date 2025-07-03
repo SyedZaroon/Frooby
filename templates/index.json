@@ -44,6 +44,7 @@
         },
         "slide_FYCxfR": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme": "scheme-6",
@@ -74,6 +75,7 @@
         },
         "slide_LNxCgG": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme": "scheme-6",
