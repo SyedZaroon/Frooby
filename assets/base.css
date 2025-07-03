@@ -4642,3 +4642,9 @@ a[aria-label="Menu 3"] {
   height: auto;
   max-width: 100%;
 }
+
+/* @media screen and (max-width: 750px) {
+.section-multitile__block.block-tile_6D9ER4.color-scheme-8.gradient.has-media.media-position--background {
+    display: none;
+  }
+} */
