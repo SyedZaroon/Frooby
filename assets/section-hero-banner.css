@@ -2,7 +2,7 @@
   position: relative;
   overflow: hidden;
   display: flex;
-  height: var(--inner-height, 100vh);
+  /* height: var(--inner-height, 100vh); */
   /* max-height: 100svh; */
 }
 .hero-banner .media {
@@ -474,7 +474,8 @@ html.no-js .hero__swiper-slide {
     text-align: center;
     align-items: flex-end;
     justify-content: center;
-    min-height: var(--inner-height, 100vh);
+    /* min-height: var(--inner-height, 100vh); */
+    height: 179px;
   }
 }
 
@@ -658,3 +659,4 @@ html.no-js .hero__swiper-slide {
     stroke-dashoffset: -56.5487px;
   }
 }
+
