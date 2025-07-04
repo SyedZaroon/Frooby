@@ -110,7 +110,7 @@
       ],
       "settings": {
         "enable_transparent_header": false,
-        "slider_height": 70,
+        "slider_height": 90,
         "slideshow_autoplay_interval": 5,
         "show_slideshow_navigation": false,
         "slideshow_navigation_position": "hero__swiper-buttons--sides",
@@ -300,7 +300,9 @@
             "button_link": "shopify://collections/tools",
             "button_style": "button--filled",
             "image": "shopify://shop_images/Artboard_1_copy_2_f3b8c270-0d5c-43b3-9720-13cd35a6255a.png",
+            "video_external": "",
             "show_controls_on_video": false,
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
