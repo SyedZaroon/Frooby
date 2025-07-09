@@ -728,35 +728,35 @@ html.no-js .hero__swiper-slide {
 
 @media screen and (min-width: 0px) {
   .hero__inner {
-    height: 97px !important;
+    height: 184px !important;
   }
 }
 
 @media screen and (min-width: 403px) {
   .hero__inner {
-    height: 110px !important;
+    height: 240px !important;
   }
 }
 
 @media screen and (min-width: 467px) {
   .hero__inner {
-    height: 140px !important;
+    height: 310px !important;
   }
 }
 
-@media screen and (min-width: 572px) {
+@media screen and (min-width: 500px) {
   .hero__inner {
-    height: 180px !important;
+    height: 150px !important;
   }
 }
 
-@media screen and (min-width: 732px) {
+@media screen and (min-width: 627px) {
   .hero__inner {
     height: 220px !important;
   }
 }
 
-@media screen and (min-width: 905px) {
+@media screen and (min-width: 897px) {
   .hero__inner {
     height: 250px !important;
   }
