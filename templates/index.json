@@ -68,6 +68,7 @@
             "enable_media_overlay_desktop": true,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/homeand_living.png",
             "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": true
@@ -98,6 +99,7 @@
             "enable_media_overlay_desktop": true,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "image_mobile": "shopify://shop_images/tools_1dcb937e-3507-42ca-86bd-33913390df45.png",
             "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": true
