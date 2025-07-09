@@ -661,7 +661,7 @@ html.no-js .hero__swiper-slide {
 }
 
 
-
+/* 
 .hero__media img {
   height: auto;
   max-width: 100%;
@@ -719,5 +719,63 @@ html.no-js .hero__swiper-slide {
 @media screen and (min-width: 1265px) {
   .hero__inner {
     height: 750px !important;
+  }
+} */
+
+.hero__inner{
+  width: 100% !important;
+}
+
+@media screen and (min-width: 0px) {
+  .hero__inner {
+    height: 97px !important;
+  }
+}
+
+@media screen and (min-width: 403px) {
+  .hero__inner {
+    height: 110px !important;
+  }
+}
+
+@media screen and (min-width: 467px) {
+  .hero__inner {
+    height: 140px !important;
+  }
+}
+
+@media screen and (min-width: 572px) {
+  .hero__inner {
+    height: 180px !important;
+  }
+}
+
+@media screen and (min-width: 732px) {
+  .hero__inner {
+    height: 220px !important;
+  }
+}
+
+@media screen and (min-width: 905px) {
+  .hero__inner {
+    height: 250px !important;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .hero__inner {
+    height: 280px !important;
+  }
+}
+
+@media screen and (min-width: 1130px) {
+  .hero__inner {
+    height: 310px !important;
+  }
+}
+
+@media screen and (min-width: 1240px) {
+  .hero__inner {
+    height: 390px !important;
   }
 }
