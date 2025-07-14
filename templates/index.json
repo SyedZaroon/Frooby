@@ -185,7 +185,7 @@
           "settings": {
             "show_on": "both",
             "column_factor": 3,
-            "row_factor": 6,
+            "row_factor": 1,
             "color_scheme": "scheme-8",
             "gradient_background_color": "",
             "tile_aspect_ratio": "1/1",
@@ -212,7 +212,7 @@
           "settings": {
             "show_on": "both",
             "column_factor": 3,
-            "row_factor": 6,
+            "row_factor": 1,
             "color_scheme": "",
             "gradient_background_color": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)",
             "tile_aspect_ratio": "1/1",
