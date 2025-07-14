@@ -190,7 +190,7 @@
             "button_link": "shopify://collections/gym-equipment",
             "button_style": "button--filled",
             "aspect_ratio": "auto",
-            "color_scheme": "scheme-5",
+            "color_scheme": "scheme-8",
             "media_position": "background",
             "content_position": "end",
             "content_alignment": "start",
@@ -265,7 +265,7 @@
         "button_link": "",
         "button_style": "button--filled",
         "section_width": "max-w-page",
-        "color_scheme": "",
+        "color_scheme": "scheme-8",
         "spacing_top": "1",
         "spacing_bottom": "1"
       }
