@@ -194,10 +194,12 @@
             "media_position": "background",
             "content_position": "end",
             "content_alignment": "start",
-            "image": "shopify://shop_images/Artboard_1.png",
+            "image": "shopify://shop_images/gym_c59af968-8fc5-4893-b654-f591d061aecd.png",
+            "video_external": "",
             "show_controls_on_video": false,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
@@ -216,10 +218,12 @@
             "media_position": "background",
             "content_position": "end",
             "content_alignment": "start",
-            "image": "shopify://shop_images/Artboard_1_copy.png",
+            "image": "shopify://shop_images/homeandliving.png",
+            "video_external": "",
             "show_controls_on_video": false,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
@@ -238,10 +242,12 @@
             "media_position": "background",
             "content_position": "end",
             "content_alignment": "start",
-            "image": "shopify://shop_images/Artboard_1_copy_2_f3b8c270-0d5c-43b3-9720-13cd35a6255a.png",
+            "image": "shopify://shop_images/handtools.png",
+            "video_external": "",
             "show_controls_on_video": false,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
+            "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
