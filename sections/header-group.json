@@ -64,6 +64,7 @@
       "blocks": {
         "image_link_text_zzPmfE": {
           "type": "image-link-text",
+          "disabled": true,
           "settings": {
             "show_on": "both",
             "menu_item_position": 2,
@@ -78,6 +79,7 @@
         },
         "image_link_text_PzzUaB": {
           "type": "image-link-text",
+          "disabled": true,
           "settings": {
             "show_on": "both",
             "menu_item_position": 3,
