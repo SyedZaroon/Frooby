@@ -233,7 +233,7 @@
         "card_wBYmxM": {
           "type": "card",
           "settings": {
-            "heading": "Storage Racks",
+            "heading": "Racks",
             "heading_size": "h6",
             "text": "",
             "button_label": "Explore",
@@ -257,7 +257,7 @@
         "card_VVin6m": {
           "type": "card",
           "settings": {
-            "heading": "Power Towers",
+            "heading": "Towers",
             "heading_size": "h6",
             "text": "",
             "button_label": "EXPLORE",
