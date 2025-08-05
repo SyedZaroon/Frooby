@@ -6,6 +6,19 @@
   gap: var(--spacing-4);
   overflow: hidden;
   transition: all 0.5s ease-in-out;
+  background-color: white;
+  padding: var(--spacing-4);
+  min-height: 300px;
+}
+
+.product-card__media img{
+  width: 165px !important;
+  height: 165px !important;
+  margin: auto;
+}
+
+.product-card__actions .product-card__media{
+  background-color: white;
 }
 
 .product-card:hover img {
