@@ -1202,7 +1202,11 @@ img:not(.lazy):not([loading='eager']) {
   background-image: var(--media-overlay-gradient);
   pointer-events: none;
   z-index: 1;
-  background:#00000091;
+  
+}
+
+.section-carousel__media.media.media--overlay::after{
+background: #00000091  !important;
 }
 
 @media screen and (max-width: 749px) {
