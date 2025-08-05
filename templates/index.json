@@ -264,7 +264,7 @@
       "settings": {
         "show_navigation_arrows": true,
         "slideshow_autoplay_interval": 0,
-        "slides_per_view": 3,
+        "slides_per_view": 4,
         "layout": "layout-1",
         "heading": "Collection",
         "heading_size": "h5",
