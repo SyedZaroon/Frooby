@@ -301,6 +301,30 @@
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
+        },
+        "card_nQFGYt": {
+          "type": "card",
+          "settings": {
+            "heading": "Weight Plate",
+            "heading_size": "h6",
+            "text": "",
+            "button_label": "EXPLORE",
+            "button_link": "",
+            "button_style": "button--filled",
+            "aspect_ratio": "auto",
+            "color_scheme": "scheme-8",
+            "media_position": "background",
+            "content_position": "end",
+            "content_alignment": "start",
+            "image": "shopify://shop_images/Weight_Plate.png",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "content_position_mobile": "end",
+            "content_alignment_mobile": "start",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "spacing_inner": "2"
+          }
         }
       },
       "block_order": [
@@ -308,7 +332,8 @@
         "card_yFE3Fk",
         "card_wBYmxM",
         "card_VVin6m",
-        "card_jBHf6m"
+        "card_jBHf6m",
+        "card_nQFGYt"
       ],
       "name": "t:sections.carousel.name",
       "settings": {
