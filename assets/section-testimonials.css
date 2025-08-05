@@ -123,6 +123,13 @@
   min-height: 19.4rem;
 }
 
+@media screen and (max-width: 749px) {
+  .testimonial__body {
+      min-height: unset;
+      padding: 30px !important;
+    }
+}
+
 .card-slider.card-slider--testimonials.vertical-w-media .card-slider__slide {
   min-height: 19.4rem;
 }
@@ -152,7 +159,7 @@
 }
 
 .testimonial__body {
-  background: rgb(var(--color-background));
+  background: white;
   border-radius: var(--card-corner-radius);
   height: 100%;
   overflow: auto;
@@ -329,9 +336,9 @@
     width: auto;
   }
 
-  .testimonial__body {
+  /* .testimonial__body {
     padding: calc(var(--block-padding) * 1.5);
-  }
+  } */
 
   .testimonials__quote {
     font-size: var(--font-size-static-h4);
