@@ -159,6 +159,7 @@
       "block_order": [
         "collection_NgfPGn"
       ],
+      "disabled": true,
       "name": "New Arrivals",
       "settings": {
         "layout": "layout-1",
@@ -449,6 +450,7 @@
         "card_jBHf6m",
         "card_nQFGYt"
       ],
+      "disabled": true,
       "name": "t:sections.carousel.name",
       "settings": {
         "show_navigation_arrows": true,
