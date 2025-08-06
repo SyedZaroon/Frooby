@@ -4654,3 +4654,10 @@ a[aria-label="Menu 3"] {
   }
 }
 
+.section-carousel__block:hover .section-carousel__media img {
+  transform: scale(1.1);
+}
+
+.section-carousel__block:hover .section-carousel__content .button {
+  transform: scale(1.05);
+}
