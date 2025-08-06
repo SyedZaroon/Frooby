@@ -180,6 +180,21 @@
         "spacing_bottom": "2"
       }
     },
+    "multitile_JyxAKV": {
+      "type": "multitile",
+      "name": "t:sections.multitile.name",
+      "settings": {
+        "block_order_mobile": false,
+        "heading": "Discover Our Collections",
+        "heading_size": "h5",
+        "heading_alignment": "start",
+        "spacing_tile": "default",
+        "color_scheme": "",
+        "section_width": "max-w-page",
+        "spacing_top": "4",
+        "spacing_bottom": "0"
+      }
+    },
     "main_list_collections_k3pmnf": {
       "type": "main-list-collections",
       "blocks": {
@@ -290,7 +305,7 @@
         "enable_infinity_scroll": false,
         "section_width": "max-w-page",
         "color_scheme": "",
-        "spacing_top": "4",
+        "spacing_top": "0",
         "spacing_bottom": "4"
       }
     },
@@ -1178,6 +1193,7 @@
   "order": [
     "1658995208ad05f95f",
     "featured_products_pMFTtf",
+    "multitile_JyxAKV",
     "main_list_collections_k3pmnf",
     "carousel_8TcMLR",
     "multitile_DAfLHx",
