@@ -195,7 +195,7 @@
         "collection_slide_qtnzBm": {
           "type": "collection-slide",
           "settings": {
-            "collection": "bench-vises",
+            "collection": "exercise-benches",
             "image": "shopify://shop_images/2222.png",
             "heading": "",
             "heading_size": "h6",
