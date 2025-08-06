@@ -179,12 +179,13 @@
         "spacing_bottom": "2"
       }
     },
-    "featured_collections_BTFhy9": {
-      "type": "featured-collections",
+    "main_list_collections_k3pmnf": {
+      "type": "main-list-collections",
       "blocks": {
-        "collection_slide_qyNEwV": {
-          "type": "collection-slide",
+        "collection_43nEin": {
+          "type": "collection",
           "settings": {
+            "color_scheme": "scheme-1",
             "collection": "dumbbells",
             "image": "shopify://shop_images/Dumbbells.png",
             "heading": "",
@@ -192,46 +193,102 @@
             "subheading": ""
           }
         },
-        "collection_slide_qtnzBm": {
-          "type": "collection-slide",
+        "collection_dnwy7d": {
+          "type": "collection",
           "settings": {
+            "color_scheme": "scheme-1",
             "collection": "exercise-benches",
             "image": "shopify://shop_images/2222.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
           }
+        },
+        "collection_PwVADc": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "free-weight-storage-racks",
+            "image": "shopify://shop_images/Storage_Racks.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_84anzA": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "power-towers",
+            "image": "shopify://shop_images/Power_Towers.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_4G6z4F": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "stair-steppers",
+            "image": "shopify://shop_images/Stair_Steppers.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_3WHh4E": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "weight-plates",
+            "image": "shopify://shop_images/Weight_Plate.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_hwwmgM": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "push-up-pull-up-bars",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_ka6g8a": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "collection": "kettlebells",
+            "heading": "",
+            "heading_size": "h4",
+            "subheading": ""
+          }
         }
       },
       "block_order": [
-        "collection_slide_qyNEwV",
-        "collection_slide_qtnzBm"
+        "collection_43nEin",
+        "collection_dnwy7d",
+        "collection_PwVADc",
+        "collection_84anzA",
+        "collection_4G6z4F",
+        "collection_3WHh4E",
+        "collection_hwwmgM",
+        "collection_ka6g8a"
       ],
-      "name": "t:sections.featured-collections.name",
+      "name": "t:sections.main-list-collections.name",
       "settings": {
-        "layout": "layout-2",
-        "heading": "Our collections",
-        "heading_size": "h5",
-        "subheading": "",
-        "content_padding": "2",
-        "button_label": "Explore all",
-        "button_link": "shopify://collections",
-        "button_style": "button--filled",
-        "card_layout": "collection",
-        "card_style": "normal",
-        "image_aspect_ratio": "1/1",
-        "card_content_alignment": "start",
+        "collections_to_show": "selected",
         "card_title_style": "card-single-text",
         "collection_product_count": "show",
-        "slides_per_view": 3,
-        "slides_per_view_mobile": 1,
-        "show_carousel_arrows": true,
-        "slideshow_alignment_center": false,
-        "enable_slideshow_overflow": false,
-        "slideshow_border": "none",
+        "collections_per_page": 8,
+        "pagination_style": "default",
+        "enable_infinity_scroll": false,
         "section_width": "max-w-page",
         "color_scheme": "",
-        "color_scheme_for_cards": "",
         "spacing_top": "2",
         "spacing_bottom": "2"
       }
@@ -1119,7 +1176,7 @@
   "order": [
     "1658995208ad05f95f",
     "featured_products_pMFTtf",
-    "featured_collections_BTFhy9",
+    "main_list_collections_k3pmnf",
     "carousel_8TcMLR",
     "multitile_DAfLHx",
     "multitile_bKnmN3",
