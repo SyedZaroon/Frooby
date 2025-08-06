@@ -8,7 +8,7 @@
   }
   .main-list-collections__grid {
     column-gap: calc(var(--grid-spacing) * 1);
-    row-gap: calc(var(--grid-spacing) * 3);
+    row-gap: calc(var(--grid-spacing) * 2);
   }
 
   @media screen and (min-width: 990px) {
@@ -29,6 +29,7 @@
 {%- assign collection_color_class = 'color-' | append: section.settings.color_scheme -%}
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
+  
   <div class="main-list-collections {{ section.settings.card_style }} {{ section.settings.card_title_style }}">
     <div class="container {{ section.settings.section_width }}{% if section.settings.pagination_style == 'load_more' and section.settings.enable_infinity_scroll %} infinity-scroll-active{% endif %}" id="ProductGridContainer">
 
@@ -53,6 +54,7 @@
                 -%}
               </collection-load-previous>
             {% endif %}
+            
             <div class="main-list-collections__grid" id="product-grid">
               {%- liquid
                 for collection in collections
@@ -91,6 +93,7 @@
             {%- endif -%}
           {%- endpaginate -%}
         {%- when 'selected' -%}
+          <h2 class="section__heading h5 section__head">{{ section.settings.title }}</h2>
           <div class="main-list-collections__grid" id="product-grid">
             {%- for block in section.blocks -%}
               {%- assign collection_block_color_class = 'color-' | append: block.settings.collection_color_class -%}
@@ -108,6 +111,12 @@
   "name": "t:sections.main-list-collections.name",
   "tag": "section",
   "settings": [
+    {
+      "type": "text", 
+      "id": "title",
+      "label": "t:sections.main-list-collections.settings.title.label",
+      "default": "Discover Our Collections"
+    },
     {
       "type": "header",
       "content": "t:sections.global.header.collections.content"
