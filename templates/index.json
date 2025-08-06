@@ -179,6 +179,63 @@
         "spacing_bottom": "2"
       }
     },
+    "featured_collections_BTFhy9": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_slide_qyNEwV": {
+          "type": "collection-slide",
+          "settings": {
+            "collection": "dumbbells",
+            "image": "shopify://shop_images/Dumbbells.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        },
+        "collection_slide_qtnzBm": {
+          "type": "collection-slide",
+          "settings": {
+            "collection": "bench-vises",
+            "image": "shopify://shop_images/2222.png",
+            "heading": "",
+            "heading_size": "h6",
+            "subheading": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_slide_qyNEwV",
+        "collection_slide_qtnzBm"
+      ],
+      "name": "t:sections.featured-collections.name",
+      "settings": {
+        "layout": "layout-2",
+        "heading": "Our collections",
+        "heading_size": "h5",
+        "subheading": "",
+        "content_padding": "2",
+        "button_label": "Explore all",
+        "button_link": "shopify://collections",
+        "button_style": "button--filled",
+        "card_layout": "collection",
+        "card_style": "normal",
+        "image_aspect_ratio": "1/1",
+        "card_content_alignment": "start",
+        "card_title_style": "card-single-text",
+        "collection_product_count": "show",
+        "slides_per_view": 3,
+        "slides_per_view_mobile": 1,
+        "show_carousel_arrows": true,
+        "slideshow_alignment_center": false,
+        "enable_slideshow_overflow": false,
+        "slideshow_border": "none",
+        "section_width": "max-w-page",
+        "color_scheme": "",
+        "color_scheme_for_cards": "",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
+      }
+    },
     "carousel_8TcMLR": {
       "type": "carousel",
       "blocks": {
@@ -1062,6 +1119,7 @@
   "order": [
     "1658995208ad05f95f",
     "featured_products_pMFTtf",
+    "featured_collections_BTFhy9",
     "carousel_8TcMLR",
     "multitile_DAfLHx",
     "multitile_bKnmN3",
