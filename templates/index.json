@@ -911,7 +911,7 @@
         "blog": "news",
         "button_text": "All Blog",
         "layout": "layout-2",
-        "card_media_aspect_ratio": "1/1",
+        "card_media_aspect_ratio": "3/2",
         "show_excerpt": true,
         "show_date": false,
         "show_author": false,
