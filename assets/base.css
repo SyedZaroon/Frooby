@@ -3746,7 +3746,7 @@ svg {
   position: relative;
 
   font-family: var(--font-body-family);
-  font-size: var(--font-size-static-sm);
+  font-size: var(--font-size-static-xs);
   font-weight: var(--font-heading-weight);
   line-height: var(--line-height-static-sm);
   text-transform: uppercase;
