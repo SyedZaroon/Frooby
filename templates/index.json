@@ -932,7 +932,7 @@
         "image_Y3B3TH": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cross-fit-rope-workout.jpg",
+            "image": "shopify://shop_images/athletic-young-woman-doing-heavy-dumbbell-exercise-2025-04-19-20-20-15-utc.jpg",
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
@@ -940,7 +940,7 @@
         "image_m9bXnL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/abs-workout-tire.jpg",
+            "image": "shopify://shop_images/closeup-portrait-of-the-man-s-body-with-dumbbell-2025-02-14-17-23-50-utc.jpg",
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
@@ -948,7 +948,7 @@
         "image_34bPnK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/arm-back-muscles.jpg",
+            "image": "shopify://shop_images/young-brunette-sexy-slim-girl-doing-workout-at-gym-2025-02-12-01-25-09-utc.jpg",
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
@@ -956,7 +956,7 @@
         "image_Lcx9JC": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/heavy-lifting-man.jpg",
+            "image": "shopify://shop_images/blonde-young-woman-in-the-gym-training-arms-and-sh-2025-03-05-22-26-51-utc.jpg",
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
@@ -964,7 +964,15 @@
         "image_6Y8QKx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4_4913542e-8422-4974-b559-71ed7f4274cf.png",
+            "image": "shopify://shop_images/man-lifting-weights-in-a-gym-looking-at-his-biceps-2025-03-11-07-02-57-utc.jpg",
+            "image_url": "",
+            "card_aspect_ratio": "same_as_section"
+          }
+        },
+        "image_pqP8UE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/man-at-gym-doing-concentration-arm-curls-2025-01-09-01-04-26-utc.jpg",
             "image_url": "",
             "card_aspect_ratio": "same_as_section"
           }
@@ -975,7 +983,8 @@
         "image_m9bXnL",
         "image_34bPnK",
         "image_Lcx9JC",
-        "image_6Y8QKx"
+        "image_6Y8QKx",
+        "image_pqP8UE"
       ],
       "settings": {
         "layout": "default",
