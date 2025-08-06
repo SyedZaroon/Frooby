@@ -290,7 +290,7 @@
         "enable_infinity_scroll": false,
         "section_width": "max-w-page",
         "color_scheme": "",
-        "spacing_top": "2",
+        "spacing_top": "4",
         "spacing_bottom": "4"
       }
     },
