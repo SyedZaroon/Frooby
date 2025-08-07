@@ -282,6 +282,7 @@
       ],
       "name": "t:sections.main-list-collections.name",
       "settings": {
+        "title": "Discover Our Collections",
         "collections_to_show": "selected",
         "card_title_style": "card-single-text",
         "collection_product_count": "show",
@@ -1020,6 +1021,9 @@
         "article_dLyG6c",
         "article_Qgcgj6"
       ],
+      "custom_css": [
+        ".card-article__entry.entry.entry--list-padding-none {display: none;}"
+      ],
       "name": "t:sections.blog-articles.name",
       "settings": {
         "heading": "Blog",
@@ -1162,6 +1166,7 @@
       ],
       "disabled": true,
       "settings": {
+        "title": "Discover Our Collections",
         "collections_to_show": "selected",
         "card_title_style": "card-single-text",
         "collection_product_count": "hide",
