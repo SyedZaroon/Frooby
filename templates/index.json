@@ -188,7 +188,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "dumbbells",
-            "image": "shopify://shop_images/Dumbbells.png",
+            "image": "shopify://shop_images/1_84014bde-2c18-4ad0-95f6-020c983fd58d.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -199,7 +199,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "exercise-benches",
-            "image": "shopify://shop_images/2222.png",
+            "image": "shopify://shop_images/2_78ba1559-7b9d-415b-8d51-fa48bf304169.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -210,7 +210,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "free-weight-storage-racks",
-            "image": "shopify://shop_images/Storage_Racks.png",
+            "image": "shopify://shop_images/3_6b89689d-be92-4448-8ee6-1b90ab28eef9.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -221,7 +221,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "power-towers",
-            "image": "shopify://shop_images/Power_Towers.png",
+            "image": "shopify://shop_images/5_d6d6ac10-29f9-41e9-a03a-e32e52d9d855.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -232,7 +232,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "stair-steppers",
-            "image": "shopify://shop_images/Stair_Steppers.png",
+            "image": "shopify://shop_images/6_07f7fd09-6244-48eb-b616-a75a4cbc1981.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -243,7 +243,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "weight-plates",
-            "image": "shopify://shop_images/Weight_Plate.png",
+            "image": "shopify://shop_images/7_aa031aa9-7f35-46ff-ac1d-c866ac341e32.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -254,6 +254,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "push-up-pull-up-bars",
+            "image": "shopify://shop_images/4_421b3bb8-297a-42fd-b64c-cd62f67272c0.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
@@ -264,6 +265,7 @@
           "settings": {
             "color_scheme": "scheme-1",
             "collection": "kettlebells",
+            "image": "shopify://shop_images/8_95b237e5-f946-45be-804c-b1135d3b62d8.png",
             "heading": "",
             "heading_size": "h6",
             "subheading": ""
