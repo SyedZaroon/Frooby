@@ -501,66 +501,10 @@
             "show_controls_on_video_mobile": false,
             "spacing_inner": "2"
           }
-        },
-        "tile_7kqFRt": {
-          "type": "tile",
-          "settings": {
-            "show_on": "both",
-            "column_factor": 3,
-            "row_factor": 1,
-            "color_scheme": "",
-            "gradient_background_color": "linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%)",
-            "tile_aspect_ratio": "1/1",
-            "content_position_vertical": "justify-end",
-            "content_alignment": "align-end text-end",
-            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
-            "media_position": "background",
-            "heading": "Smart Tools That Make Life Simpler",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/tools",
-            "button_style": "button--filled",
-            "image": "shopify://shop_images/Artboard_1_copy.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "tile_6D9ER4": {
-          "type": "tile",
-          "settings": {
-            "show_on": "desktop",
-            "column_factor": 6,
-            "row_factor": 6,
-            "color_scheme": "scheme-8",
-            "gradient_background_color": "",
-            "tile_aspect_ratio": "media",
-            "content_position_vertical": "justify-end",
-            "content_alignment": "align-end text-end",
-            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
-            "media_position": "background",
-            "heading": "Refresh Your Home Today – Shop Must-Have Living Essentials",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/home-essentials",
-            "button_style": "button--filled",
-            "image": "shopify://shop_images/Artboard_1_copy_2.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "1"
-          }
         }
       },
       "block_order": [
-        "tile_Xtw9dC",
-        "tile_7kqFRt",
-        "tile_6D9ER4"
+        "tile_Xtw9dC"
       ],
       "disabled": true,
       "name": "t:sections.multitile.name",
@@ -755,64 +699,6 @@
         "font_weight": "700",
         "section_width": "max-w-full",
         "color_scheme": "scheme-3"
-      }
-    },
-    "featured_products_3Bw4jT": {
-      "type": "featured-products",
-      "blocks": {
-        "collection_zGEhTz": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": "",
-            "products": [
-              "10-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container",
-              "50-x-115mm-4-5-thin-metal-cutting-blade-disc-for-steel-stainless-for-grinder",
-              "cobra-500mm-20-inch-hand-saw-wood-carpentry-8-tpi-sharp-point-hard-point-23-21",
-              "extendable-wheel-wrench-telescopic-brace-socket-car-van-tyre-nut-17-19-21-23mm",
-              "10-metal-hacksaw-blades-12-300mm-24tpi",
-              "10-x-angle-grinder-flat-twist-knot-wire-wheel-brush-set-m14-4-5-115mm-new-3-7",
-              "10-x-twist-knot-semi-flat-wire-wheel-cup-brush-set-for-115mm-angle-grinder-3-8",
-              "16-litre-wide-oil-drain-pan-brake-clutch-fluid-lubricant-under-vehicle-container",
-              "22-carbon-steel-blade-shears-hedge-grass-shrub-garden-bushes-grip-handle-23-76",
-              "3-x-4-5-115mm-diamond-cutting-disc-angle-grinder-blade-grinding-stone-marble-uk",
-              "h-duty-25pc-wire-brush-set-rotary-drill-attachment-wheel-cup-flat-sanding-ct622",
-              "van-high-security-padlock-hasp-set-door-75mm-nuts-bolts-fixings"
-            ],
-            "vendor": "",
-            "collection_of_products": "",
-            "show_unavailable_products": false,
-            "card_text_heading": "",
-            "card_text_button_label": "",
-            "card_text_button_style": "button--filled",
-            "card_text_button_link": "",
-            "content_position": "center",
-            "content_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_zGEhTz"
-      ],
-      "disabled": true,
-      "name": "TOOLS",
-      "settings": {
-        "layout": "layout-1",
-        "heading": "TOOLS",
-        "heading_size": "h5",
-        "subheading": "",
-        "button_label": "View all",
-        "button_link": "shopify://collections/tools",
-        "button_style": "button--filled",
-        "max_products": 12,
-        "enable_slideshow_overflow": true,
-        "show_navigation_arrows": true,
-        "slideshow_autoplay_interval": 10,
-        "tab_button_style": "button--filled",
-        "section_width": "max-w-page",
-        "color_scheme": "",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
       }
     },
     "featured_products_NQdanV": {
@@ -1191,7 +1077,6 @@
     "multitile_bKnmN3",
     "featured_collections_eVqtym",
     "announcement_bar_PrVdXX",
-    "featured_products_3Bw4jT",
     "featured_products_NQdanV",
     "full_width_banner_BAzegt",
     "testimonials_CMyt3F",
