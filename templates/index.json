@@ -152,7 +152,7 @@
         "subheading": "",
         "rating_icon": "star",
         "layout": "carousel-none-media",
-        "slider_autoplay": 3,
+        "slider_autoplay": 5,
         "image_position": "image-start",
         "image_aspect_ratio": "1 / 1",
         "media_show_on": "desktop",
