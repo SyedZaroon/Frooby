@@ -11,7 +11,7 @@
 
 {% style %}
   #shopify-section-{{ section.id }} {
-    --inner-height: {{ section.settings.slider_height | default: '100' | append: 'vh' }};
+    --inner-height: {{ section.settings.slider_height | default: 70 | times: 7 | append: 'px' }};
     --slideshow-pagination-progress-time: {{ section.settings.slideshow_autoplay_interval | times: slide_progress_multiplier }}ms;
   }
   main + #shopify-section-{{ section.id }} {
@@ -338,7 +338,7 @@
       "max": 100,
       "step": 5,
       "unit": "%",
-      "default": 100
+      "default": 70
     },
     {
       "type": "range",
