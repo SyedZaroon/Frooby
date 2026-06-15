@@ -15,7 +15,7 @@
     --slideshow-pagination-progress-time: {{ section.settings.slideshow_autoplay_interval | times: slide_progress_multiplier }}ms;
   }
   main + #shopify-section-{{ section.id }} {
-    --inner-height: calc({{ section.settings.slider_height | default: '100' | append: 'svh' }} - var(--hero-banner-top, var(--announcement-bar-height)));
+    --inner-height: calc({{ section.settings.slider_height | default: '50' | append: 'svh' }} - var(--hero-banner-top, var(--announcement-bar-height)));
   }
   {% unless section.index0 == 0 -%}
     #shopify-section-{{ section.id }} .hero__inner {
