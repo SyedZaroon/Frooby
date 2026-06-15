@@ -112,11 +112,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "6174324309569838175": {
-        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": true,
-        "settings": {}
-      },
       "opinew-global-code": {
         "type": "shopify://apps/opinew-reviews/blocks/global/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
         "disabled": false,

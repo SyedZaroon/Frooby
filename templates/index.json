@@ -31,7 +31,7 @@
             "button_style_2": "button--outlined",
             "content_position": "end",
             "content_alignment": "center",
-            "image": "shopify://shop_images/111.png",
+            "image": "shopify://shop_images/16-7_ratio_hero.png",
             "video_external": "",
             "show_controls_on_video": false,
             "enable_media_overlay_desktop": true,
@@ -47,6 +47,7 @@
       "block_order": [
         "slide_rqNgzB"
       ],
+      "custom_css": [],
       "settings": {
         "enable_transparent_header": false,
         "slider_height": 100,
@@ -57,6 +58,109 @@
         "show_slideshow_pagination": false,
         "slideshow_pagination_style": "style-2",
         "floating_bar": false
+      }
+    },
+    "testimonials_CMyt3F": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9LXQhi": {
+          "type": "testimonial",
+          "settings": {
+            "author": "i***r",
+            "quote": "<p>“Great weights / Good value. Fast delivery - Delivered 48 hours after order. Would recommend seller & weight plates 5 out of 5.”</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_m84zQK": {
+          "type": "testimonial",
+          "settings": {
+            "author": "o***u",
+            "quote": "<p>“I have my own garage gym and needed more weight plates without breaking the bank. These plates arrived within two days of ordering and are brand new. The build quality seems excellent and they look great, an excellent choice for my gym and will help push my training to the next level. I can highly recommend these 20kg weight plates. They are absolutely amazing value for the money.”</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_MTj6Wz": {
+          "type": "testimonial",
+          "settings": {
+            "author": "t***p",
+            "quote": "<p>\"Exactly as described, great product, price and (very fast) delivery. I'll definitely use Frooby again.\"</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_mLLMdb": {
+          "type": "testimonial",
+          "settings": {
+            "author": "m***s",
+            "quote": "<p>\"Excellent seller. As described, good value, well packaged & quick delivery. Happy to recommend. Thank you.\"</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_qXzkny": {
+          "type": "testimonial",
+          "settings": {
+            "author": "i***-",
+            "quote": "<p>\"Great quality weight plates, delivery issue was resolved without any hassle, missing items sent out and received within a few days, excellent customer service, recommended and I would use again.\"</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_nX8zAH": {
+          "type": "testimonial",
+          "settings": {
+            "author": "8***8",
+            "quote": "<p>\"Excellent kit, fast delivery, packaging was good, good value for money and solid material. No cheap weights, solid commercial quality. Perfect condition and appearance. Excellent seller.\"</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_NUmDwd": {
+          "type": "testimonial",
+          "settings": {
+            "author": "J***y ",
+            "quote": "<p>\"Great quality. Easy to pick up and load on a barbell or place into storage in my home gym. Good value. Speedy delivery.\"<br/><br/></p>",
+            "rating_score": 4,
+            "color_scheme": "scheme-1"
+          }
+        },
+        "testimonial_jbrGqN": {
+          "type": "testimonial",
+          "settings": {
+            "author": "w***1",
+            "quote": "<p>\"Good communication, arrived early. Keep up the good work thanks\"</p>",
+            "rating_score": 5,
+            "color_scheme": "scheme-1"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9LXQhi",
+        "testimonial_m84zQK",
+        "testimonial_MTj6Wz",
+        "testimonial_mLLMdb",
+        "testimonial_qXzkny",
+        "testimonial_nX8zAH",
+        "testimonial_NUmDwd",
+        "testimonial_jbrGqN"
+      ],
+      "settings": {
+        "heading": "Testimonials",
+        "heading_size": "h5",
+        "subheading": "",
+        "rating_icon": "star",
+        "layout": "carousel-none-media",
+        "slider_autoplay": 3,
+        "image_position": "image-start",
+        "image_aspect_ratio": "1 / 1",
+        "media_show_on": "desktop",
+        "spacing_inner": "1",
+        "section_width": "max-w-full",
+        "color_scheme": "scheme-5",
+        "spacing_top": "2",
+        "spacing_bottom": "2"
       }
     },
     "featured_products_pMFTtf": {
@@ -222,7 +326,7 @@
         "collections_to_show": "selected",
         "card_title_style": "card-single-text",
         "collection_product_count": "show",
-        "collections_per_page": 8,
+        "collections_per_page": 3,
         "pagination_style": "default",
         "enable_infinity_scroll": false,
         "section_width": "max-w-page",
@@ -746,69 +850,6 @@
         "spacing_bottom": "1"
       }
     },
-    "testimonials_CMyt3F": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_qXzkny": {
-          "type": "testimonial",
-          "settings": {
-            "author": "Alex Thompson",
-            "quote": "<p>After trying countless products, I finally found the perfect match with this brand; my Workouts have never felt so good!</p>",
-            "rating_score": 5,
-            "color_scheme": "scheme-1"
-          }
-        },
-        "testimonial_nX8zAH": {
-          "type": "testimonial",
-          "settings": {
-            "author": "Chris Wu",
-            "quote": "<p>“I absolutely love the quality of my Weight Bench.”</p>",
-            "rating_score": 5,
-            "color_scheme": "scheme-1"
-          }
-        },
-        "testimonial_NUmDwd": {
-          "type": "testimonial",
-          "settings": {
-            "author": "Michael Richards",
-            "quote": "<p>Good communication, Easy delivery, Would definitely recommend 👍</p>",
-            "rating_score": 4,
-            "color_scheme": "scheme-1"
-          }
-        },
-        "testimonial_jbrGqN": {
-          "type": "testimonial",
-          "settings": {
-            "author": "Jonathan Carter",
-            "quote": "<p>Five stars all the way! The customer service was outstanding</p>",
-            "rating_score": 5,
-            "color_scheme": "scheme-1"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_qXzkny",
-        "testimonial_nX8zAH",
-        "testimonial_NUmDwd",
-        "testimonial_jbrGqN"
-      ],
-      "settings": {
-        "heading": "Testimonials",
-        "heading_size": "h5",
-        "subheading": "",
-        "rating_icon": "star",
-        "layout": "carousel-none-media",
-        "slider_autoplay": 3,
-        "image_position": "image-start",
-        "image_aspect_ratio": "1 / 1",
-        "media_show_on": "desktop",
-        "spacing_inner": "1",
-        "section_width": "max-w-full",
-        "color_scheme": "scheme-5",
-        "spacing_top": "2",
-        "spacing_bottom": "2"
-      }
-    },
     "blog_articles_eRYYrb": {
       "type": "blog-articles",
       "blocks": {
@@ -1004,6 +1045,7 @@
   },
   "order": [
     "1658995208ad05f95f",
+    "testimonials_CMyt3F",
     "featured_products_pMFTtf",
     "main_list_collections_k3pmnf",
     "carousel_8TcMLR",
@@ -1013,7 +1055,6 @@
     "announcement_bar_PrVdXX",
     "featured_products_NQdanV",
     "full_width_banner_BAzegt",
-    "testimonials_CMyt3F",
     "blog_articles_eRYYrb",
     "social_media_highlights_fVaa73",
     "main_list_collections_WLTWRa"
