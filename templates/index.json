@@ -31,7 +31,7 @@
             "button_style_2": "button--outlined",
             "content_position": "center",
             "content_alignment": "center",
-            "image": "shopify://shop_images/16-7_ratio_hero.png",
+            "image": "shopify://shop_images/desktop.png",
             "video_external": "",
             "show_controls_on_video": false,
             "enable_media_overlay_desktop": true,
