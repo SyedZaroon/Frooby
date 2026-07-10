@@ -37,7 +37,7 @@
             "enable_media_overlay_desktop": true,
             "content_position_mobile": "center",
             "content_alignment_mobile": "center",
-            "image_mobile": "shopify://shop_images/16-7_ratio_hero.png",
+            "image_mobile": "shopify://shop_images/Screenshot_2026-07-10_153506.png",
             "video_external_mobile": "",
             "show_controls_on_video_mobile": false,
             "enable_media_overlay_mobile": true
@@ -47,6 +47,7 @@
       "block_order": [
         "slide_phxWR8"
       ],
+      "custom_css": [],
       "name": "t:sections.hero-banner.name",
       "settings": {
         "enable_transparent_header": true,
