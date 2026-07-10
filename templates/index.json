@@ -251,10 +251,10 @@
       ],
       "name": "t:sections.main-list-collections.name",
       "settings": {
-        "title": "Discover Our Collections",
+        "title": "Discover Our Collection",
         "collections_to_show": "selected",
         "card_title_style": "card-single-text",
-        "collection_product_count": "show",
+        "collection_product_count": "hide",
         "collections_per_page": 3,
         "pagination_style": "default",
         "enable_infinity_scroll": false,
@@ -351,18 +351,18 @@
         "testimonial_jbrGqN"
       ],
       "settings": {
-        "heading": "Testimonials",
+        "heading": "TESTIMONIALS",
         "heading_size": "h5",
         "subheading": "",
         "rating_icon": "star",
         "layout": "carousel-none-media",
-        "slider_autoplay": 5,
+        "slider_autoplay": 7.5,
         "image_position": "image-start",
         "image_aspect_ratio": "1 / 1",
         "media_show_on": "desktop",
         "spacing_inner": "1",
         "section_width": "max-w-full",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-6",
         "spacing_top": "2",
         "spacing_bottom": "2"
       }
