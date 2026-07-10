@@ -21,21 +21,21 @@
         "text_slide_QTKcYJ": {
           "type": "text-slide",
           "settings": {
-            "content": "<h6>Same Day Dispatch until 3PM</h6>",
+            "content": "<h6><br/>📦 Same Day Dispatch until 3PM</h6>",
             "icon": ""
           }
         },
         "text_slide_QywYmP": {
           "type": "text-slide",
           "settings": {
-            "content": "<h6>Free UK Delivery</h6>",
-            "icon": ""
+            "content": "<h6><br/>🚚 Free UK Delivery on all orders</h6>",
+            "icon": "🚚"
           }
         },
         "text_slide_a3wMYw": {
           "type": "text-slide",
           "settings": {
-            "content": "<h6>30 Days Return</h6>",
+            "content": "<h6>🔄 30 Days Return</h6>",
             "icon": ""
           }
         },
@@ -61,42 +61,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "image_link_text_zzPmfE": {
-          "type": "image-link-text",
-          "disabled": true,
-          "settings": {
-            "show_on": "both",
-            "menu_item_position": 2,
-            "color_scheme": "scheme-2",
-            "card_aspect_ratio": "16/9",
-            "content_position_horizontal": "align-end text-end",
-            "content_position_vertical": "justify-start",
-            "title": "",
-            "subtitle": "",
-            "link": ""
-          }
-        },
-        "image_link_text_PzzUaB": {
-          "type": "image-link-text",
-          "disabled": true,
-          "settings": {
-            "show_on": "both",
-            "menu_item_position": 3,
-            "color_scheme": "scheme-2",
-            "card_aspect_ratio": "same_as_section",
-            "content_position_horizontal": "align-start text-start",
-            "content_position_vertical": "justify-end",
-            "title": "",
-            "subtitle": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_link_text_zzPmfE",
-        "image_link_text_PzzUaB"
-      ],
       "settings": {
         "layout": "header--nav-centered",
         "sticky": true,

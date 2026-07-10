@@ -23,9 +23,9 @@
             "subheading_link": "",
             "text": "",
             "button_link_1": "shopify://collections/all",
-            "button_link_1_type": "card",
+            "button_link_1_type": "button",
             "button_label_1": "Shop Equipment",
-            "button_style_1": "button--filled",
+            "button_style_1": "button--text",
             "button_link_2": "/",
             "button_label_2": "View more",
             "button_style_2": "button--outlined",
@@ -52,7 +52,7 @@
         "enable_transparent_header": true,
         "slider_height": 70,
         "slideshow_autoplay_interval": 6,
-        "show_slideshow_navigation": true,
+        "show_slideshow_navigation": false,
         "slideshow_navigation_position": "hero__swiper-buttons--start",
         "color_scheme_arrows": "",
         "show_slideshow_pagination": true,
@@ -228,8 +228,8 @@
         "enable_infinity_scroll": false,
         "section_width": "max-w-page",
         "color_scheme": "",
-        "spacing_top": "4",
-        "spacing_bottom": "4"
+        "spacing_top": "2",
+        "spacing_bottom": "2"
       }
     },
     "testimonials_CMyt3F": {
@@ -333,181 +333,6 @@
         "color_scheme": "scheme-5",
         "spacing_top": "2",
         "spacing_bottom": "2"
-      }
-    },
-    "carousel_8TcMLR": {
-      "type": "carousel",
-      "blocks": {
-        "card_rWwFD8": {
-          "type": "card",
-          "settings": {
-            "heading": "Dumbbells",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/dumbbells",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/Dumbbells.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "center",
-            "content_alignment_mobile": "center",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "card_yFE3Fk": {
-          "type": "card",
-          "settings": {
-            "heading": "Benches",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/exercise-benches",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/2222.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "center",
-            "content_alignment_mobile": "center",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "card_wBYmxM": {
-          "type": "card",
-          "settings": {
-            "heading": "Racks",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/free-weight-storage-racks",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/Storage_Racks.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "center",
-            "content_alignment_mobile": "center",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "card_VVin6m": {
-          "type": "card",
-          "settings": {
-            "heading": "Towers",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "EXPLORE",
-            "button_link": "shopify://collections/power-towers",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/Power_Towers.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "end",
-            "content_alignment_mobile": "start",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "card_jBHf6m": {
-          "type": "card",
-          "settings": {
-            "heading": "Stair Steppers",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "EXPLORE",
-            "button_link": "shopify://collections/stair-steppers",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/Stair_Steppers.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "end",
-            "content_alignment_mobile": "start",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        },
-        "card_nQFGYt": {
-          "type": "card",
-          "settings": {
-            "heading": "Weight Plate",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "EXPLORE",
-            "button_link": "",
-            "button_style": "button--filled",
-            "aspect_ratio": "auto",
-            "color_scheme": "scheme-8",
-            "media_position": "background",
-            "content_position": "end",
-            "content_alignment": "start",
-            "image": "shopify://shop_images/Weight_Plate.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "content_position_mobile": "end",
-            "content_alignment_mobile": "start",
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        }
-      },
-      "block_order": [
-        "card_rWwFD8",
-        "card_yFE3Fk",
-        "card_wBYmxM",
-        "card_VVin6m",
-        "card_jBHf6m",
-        "card_nQFGYt"
-      ],
-      "disabled": true,
-      "name": "t:sections.carousel.name",
-      "settings": {
-        "show_navigation_arrows": true,
-        "slideshow_autoplay_interval": 0,
-        "slides_per_view": 4,
-        "layout": "layout-1",
-        "heading": "Collection",
-        "heading_size": "h5",
-        "subheading": "",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "button--filled",
-        "section_width": "max-w-page",
-        "color_scheme": "scheme-1",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
       }
     },
     "multitile_DAfLHx": {
@@ -1017,7 +842,6 @@
     "featured_products_pMFTtf",
     "main_list_collections_k3pmnf",
     "testimonials_CMyt3F",
-    "carousel_8TcMLR",
     "multitile_DAfLHx",
     "multitile_bKnmN3",
     "featured_collections_eVqtym",
