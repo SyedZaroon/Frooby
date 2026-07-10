@@ -352,7 +352,7 @@
       ],
       "settings": {
         "heading": "TESTIMONIALS",
-        "heading_size": "h5",
+        "heading_size": "h6",
         "subheading": "",
         "rating_icon": "star",
         "layout": "carousel-none-media",
