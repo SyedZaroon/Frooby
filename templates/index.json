@@ -18,7 +18,7 @@
             "banner_layout": "hero-banner--split",
             "color_scheme": "scheme-3",
             "header_menu_text_color": "#ffffff",
-            "heading": "<h4><strong>QUALITY EQUIPMENT</strong></h4><h4><strong>STRONGER RESULTS</strong></h4>",
+            "heading": "<h5><strong>QUALITY EQUIPMENT</strong></h5><h5><strong>STRONGER RESULTS</strong></h5>",
             "subheading": "<em>Premium gym equipment built to last</em>",
             "subheading_link": "",
             "text": "",
@@ -44,6 +44,7 @@
         },
         "slide_phxWR8": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme": "scheme-1",
@@ -352,7 +353,7 @@
       ],
       "settings": {
         "heading": "TESTIMONIALS",
-        "heading_size": "h6",
+        "heading_size": "h5",
         "subheading": "",
         "rating_icon": "star",
         "layout": "carousel-none-media",
