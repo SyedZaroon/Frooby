@@ -12,6 +12,36 @@
     "hero_banner_4MzHBd": {
       "type": "hero-banner",
       "blocks": {
+        "slide_mpBWxt": {
+          "type": "slide",
+          "settings": {
+            "banner_layout": "hero-banner--split",
+            "color_scheme": "scheme-3",
+            "header_menu_text_color": "#ffffff",
+            "heading": "<h4><strong>PREMIUM GYM EQUIPMENT</strong></h4>",
+            "subheading": "Built to Perform",
+            "subheading_link": "",
+            "text": "",
+            "button_link_1": "/",
+            "button_link_1_type": "button",
+            "button_label_1": "View more",
+            "button_style_1": "button--filled",
+            "button_link_2": "/",
+            "button_label_2": "View more",
+            "button_style_2": "button--outlined",
+            "content_position": "start",
+            "content_alignment": "center",
+            "video": "shopify://files/videos/Untitled design.mp4",
+            "video_external": "",
+            "show_controls_on_video": false,
+            "enable_media_overlay_desktop": true,
+            "content_position_mobile": "center",
+            "content_alignment_mobile": "center",
+            "video_external_mobile": "",
+            "show_controls_on_video_mobile": false,
+            "enable_media_overlay_mobile": true
+          }
+        },
         "slide_phxWR8": {
           "type": "slide",
           "settings": {
@@ -29,7 +59,7 @@
             "button_link_2": "/",
             "button_label_2": "View more",
             "button_style_2": "button--outlined",
-            "content_position": "center",
+            "content_position": "start",
             "content_alignment": "center",
             "image": "shopify://shop_images/ChatGPT_Image_Jul_10_2026_05_48_37_PM.png",
             "video_external": "",
@@ -45,14 +75,15 @@
         }
       },
       "block_order": [
+        "slide_mpBWxt",
         "slide_phxWR8"
       ],
       "custom_css": [],
       "name": "t:sections.hero-banner.name",
       "settings": {
         "enable_transparent_header": true,
-        "slider_height": 70,
-        "slideshow_autoplay_interval": 6,
+        "slider_height": 80,
+        "slideshow_autoplay_interval": 20,
         "show_slideshow_navigation": false,
         "slideshow_navigation_position": "hero__swiper-buttons--start",
         "color_scheme_arrows": "",
