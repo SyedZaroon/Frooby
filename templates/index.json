@@ -44,6 +44,7 @@
         },
         "slide_phxWR8": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "banner_layout": "hero-banner--full",
             "color_scheme": "scheme-1",
@@ -83,7 +84,7 @@
       "settings": {
         "enable_transparent_header": true,
         "slider_height": 80,
-        "slideshow_autoplay_interval": 6,
+        "slideshow_autoplay_interval": 20,
         "show_slideshow_navigation": false,
         "slideshow_navigation_position": "hero__swiper-buttons--start",
         "color_scheme_arrows": "",
@@ -367,54 +368,6 @@
         "spacing_bottom": "2"
       }
     },
-    "multitile_DAfLHx": {
-      "type": "multitile",
-      "blocks": {
-        "tile_Xtw9dC": {
-          "type": "tile",
-          "settings": {
-            "show_on": "both",
-            "column_factor": 3,
-            "row_factor": 1,
-            "color_scheme": "scheme-8",
-            "gradient_background_color": "",
-            "tile_aspect_ratio": "1/1",
-            "content_position_vertical": "justify-end",
-            "content_alignment": "align-end text-end",
-            "content_alignment_for_mobile": "align-start--mobile text-start--mobile",
-            "media_position": "background",
-            "heading": "Get Fit at Home with Powerful Gym Essentials",
-            "heading_size": "h6",
-            "text": "",
-            "button_label": "Explore",
-            "button_link": "shopify://collections/gym-equipment",
-            "button_style": "button--filled",
-            "image": "shopify://shop_images/Artboard_1.png",
-            "video_external": "",
-            "show_controls_on_video": false,
-            "video_external_mobile": "",
-            "show_controls_on_video_mobile": false,
-            "spacing_inner": "2"
-          }
-        }
-      },
-      "block_order": [
-        "tile_Xtw9dC"
-      ],
-      "disabled": true,
-      "name": "t:sections.multitile.name",
-      "settings": {
-        "block_order_mobile": false,
-        "heading": "",
-        "heading_size": "h3",
-        "heading_alignment": "start",
-        "spacing_tile": "compact",
-        "color_scheme": "",
-        "section_width": "max-w-full",
-        "spacing_top": "0",
-        "spacing_bottom": "0"
-      }
-    },
     "multitile_bKnmN3": {
       "type": "multitile",
       "blocks": {
@@ -563,64 +516,6 @@
         "color_scheme_for_cards": "",
         "spacing_top": "2",
         "spacing_bottom": "2"
-      }
-    },
-    "featured_products_NQdanV": {
-      "type": "featured-products",
-      "blocks": {
-        "collection_LHadaQ": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": "",
-            "products": [
-              "strong-vacuum-storage-space-saver-saving-bags-vacum-vaccum-bag-duvet-blanket-new",
-              "heavy-duty-double-rail-clothes-garment-hanging-rack-shelf-display-stand-uk-33-5",
-              "foldable-extra-large-4-tier-indoor-outdoor-clothes-airer-laundry-dryer-rack-uk",
-              "2-in-1-kids-baby-toilet-seat-toddler-training-potty-trainer-safety-chair-urinal",
-              "2-6-4-4m-telescopic-aluminium-ladder",
-              "large-lockable-mailbox-postbox-outside-post-letter-box-wall-mounted-black-49-3",
-              "frooby-12l-dehumidifier-mould-moisture-condensation-extraction-quiet-timer-40-1",
-              "garden-hose-pipe-reel-tough-reinforced-outdoor-hosepipe-metres-spray-gun-set",
-              "magnetic-whiteboard-w-chalkboard-eraser-pens",
-              "black-large-letter-box-post-mail-box-wall-mounted-modern-lockable-with-keys-49-1",
-              "plain-black-mailbox-with-keys-49-2",
-              "wooden-coat-hangers-suit-garments-clothes-wood-hanger-strong-trouser-bar-set-341"
-            ],
-            "vendor": "",
-            "collection_of_products": "",
-            "show_unavailable_products": true,
-            "card_text_heading": "",
-            "card_text_button_label": "",
-            "card_text_button_style": "button--filled",
-            "card_text_button_link": "",
-            "content_position": "center",
-            "content_alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_LHadaQ"
-      ],
-      "disabled": true,
-      "name": "HOME & LIVING",
-      "settings": {
-        "layout": "layout-1",
-        "heading": "HOME & LIVING",
-        "heading_size": "h5",
-        "subheading": "",
-        "button_label": "View all",
-        "button_link": "shopify://collections/tools",
-        "button_style": "button--filled",
-        "max_products": 12,
-        "enable_slideshow_overflow": true,
-        "show_navigation_arrows": true,
-        "slideshow_autoplay_interval": 10,
-        "tab_button_style": "button--filled",
-        "section_width": "max-w-page",
-        "color_scheme": "",
-        "spacing_top": "1",
-        "spacing_bottom": "1"
       }
     },
     "full_width_banner_BAzegt": {
@@ -874,10 +769,8 @@
     "featured_products_pMFTtf",
     "main_list_collections_k3pmnf",
     "testimonials_CMyt3F",
-    "multitile_DAfLHx",
     "multitile_bKnmN3",
     "featured_collections_eVqtym",
-    "featured_products_NQdanV",
     "full_width_banner_BAzegt",
     "blog_articles_eRYYrb",
     "social_media_highlights_fVaa73",
